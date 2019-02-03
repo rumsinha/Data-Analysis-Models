@@ -63,7 +63,7 @@ head(election_2009_data)
 
 election_2009_data$Turnout <-as.numeric(str_trim(str_replace_all(str_replace(election_2009_data$Turnout , "%", ""),",","")))
 election_2009_data$Turnout <- as.numeric(election_2009_data$Turnout)
-election_2009_data$Turnout[is.na(election_2009_data$Turnout)] <- mean(election_2009_data$Turnout, na.rm=TRUE)/2 ## because mean of turnout exceeding 100%
+election_2009_data$Turnout[is.na(election_2009_data$Turnout)] <- mean(election_2009_data$Turnout, na.rm=TRUE)/2
 
 ## NAs handling
 election_2009_data$Party <- ifelse(election_2009_data$Party == "BJP","BJP",
@@ -103,93 +103,6 @@ sum(is.na(election_2009_data$GrowthRateAgri))
 summary(election_2009_data)
 str(election_2009_data)
 
-#Combine the data for 2004 and 2009
-final_election_data <- rbind(election_2004_data,election_2009_data)
-head(final_election_data)
-tail(final_election_data)
-
-## independent variables will be Turnout, Gender, Type, PrevParty, GSDP,Criminal.Case,Education,
-##                               Total.Assets, Liabilities, CandidateAge ,GrowthRateAgri
-##
-## dependent variable as Party
-
-# split 70 percent of the data into the training dataset and 30 percent of the data
-# into the validation dataset:
-set.seed(123)
-ind = sample(2, nrow(final_election_data), replace = TRUE, prob=c(0.7,0.3))
-train.df = final_election_data[ind == 1,]
-test.df = final_election_data[ind == 2,]
-dim(train.df)
-dim(test.df)
-
-prop.table(table(train.df$Party)) 
-
-prop.table(table(test.df$Party)) 
-
-# we see almost equal representation in both training and testing set for the dependent or response variable
-
-
-#### Neural Net model with Caret and NNET packages ####
-varNames <- names(train.df)
-
-responseVarName <- "Party"
-factorcolvarNames <- varNames[varNames %in% c("Type","Gender","PrevParty","Education")]
-numericcolvarNames <- varNames[varNames %in% c("Turnout","GSDP","Criminal.Case","CandidateAge","GrowthRateAgri")]
-toscalevarnames <- varNames[varNames %in% c("Total.Assets","Liabilities")]
-
-# Create Vector of Column Max and Min Values
-maxs <- apply(train.df[,toscalevarnames], 2, max)
-mins <- apply(train.df[,toscalevarnames], 2, min)
-
-# Use scale() and convert the resulting matrix to a data frame
-train.scaled.data <- as.data.frame(scale(train.df[,toscalevarnames],center = mins, scale = maxs - mins))
-
-traindata<- as.data.frame(cbind("Party"=train.df[,responseVarName],train.scaled.data,train.df[,numericcolvarNames],train.df[,factorcolvarNames]))
-str(traindata)
-
-# Create Vector of Column Max and Min Values
-maxs <- apply(test.df[,toscalevarnames], 2, max)
-mins <- apply(test.df[,toscalevarnames], 2, min)
-
-# Use scale() and convert the resulting matrix to a data frame
-test.scaled.data <- as.data.frame(scale(test.df[,toscalevarnames],center = mins, scale = maxs - mins))
-
-testdata<- as.data.frame(cbind("Party"=test.df[,responseVarName],test.scaled.data,test.df[,numericcolvarNames],test.df[,factorcolvarNames]))
-str(testdata)
-
-library(caret)
-# model building with the caret train function
-# The summaryFunction argument is used to pas in a function that takes the observed and predicted
-# will compute measures specific to two-class problems, such as the area under the ROC curve, the sensitivity and specificity. 
-# Since the ROC curve is based on the predicted class probabilities (which are not computed automatically), another option is required. 
-# The classProbs = TRUE option is used to include these calculations. values and estimate some measure of performance
-# verboseIter = TRUE to print the training log
-# thresh : a cutoff for the cumulative percent of variance to be retained by PCA
-# pcaComp the specific number of PCA components to keep. If specified, this over-rides thresh
-# k the number of nearest neighbors from the training set to use for imputation
-numFolds <- trainControl(method = 'cv', number = 10, classProbs = TRUE, 
-                         verboseIter = TRUE, summaryFunction = multiClassSummary, 
-                         preProcOptions = list(thresh = 0.75, ICAcomp = 3, k = 5))
-
-#Grid Search: Manual Grid
-#The second way to search algorithm parameters is to specify a tune grid manually
-#the search of a manual tune grid with hidden neurons 5 and 1 hidden layer and threshold value specified as 0.1
-elec.pred.nn <- train(Party ~ ., data = traindata, method = 'nnet', 
-                      trControl = numFolds, tuneGrid=expand.grid(size=c(10,5), decay=c(0.1)))
-
-#train data
-pred<-predict(elec.pred.nn)
-pred
-caret::confusionMatrix(xtabs(~pred+traindata$Party))
-
-
-#test data
-pred<-predict(elec.pred.nn, newdata=testdata[,-1])
-pred
-caret::confusionMatrix(xtabs(~pred+testdata$Party))
-
-
-## testing the model on the 2014 data
 #2014 year
 election_2014_data <- read.csv("Election_Data_2014.csv")
 election_2014_data$Year <- '2014'
@@ -199,7 +112,7 @@ head(election_2014_data)
 
 election_2014_data$Turnout <-as.numeric(str_trim(str_replace_all(str_replace(election_2014_data$Turnout , "%", ""),",","")))
 election_2014_data$Turnout <- as.numeric(election_2014_data$Turnout)
-election_2014_data$Turnout[is.na(election_2014_data$Turnout)] <- mean(election_2014_data$Turnout, na.rm=TRUE)/2 ## because mean of turnout exceeding 100%
+election_2014_data$Turnout[is.na(election_2014_data$Turnout)] <- mean(election_2014_data$Turnout, na.rm=TRUE)/2
 
 ## NAs handling
 election_2014_data$Party <- ifelse(election_2014_data$Party == "BJP","BJP",
@@ -240,23 +153,128 @@ summary(election_2014_data)
 str(election_2014_data)
 
 
-test.df = election_2014_data
-# Create Vector of Column Max and Min Values
-maxs <- apply(test.df[,toscalevarnames], 2, max)
-mins <- apply(test.df[,toscalevarnames], 2, min)
+#Combine the data
+final_election_data <- rbind(election_2004_data,election_2009_data,election_2014_data)
+head(final_election_data)
+tail(final_election_data)
 
-# Use scale() and convert the resulting matrix to a data frame
-test.scaled.data <- as.data.frame(scale(test.df[,toscalevarnames],center = mins, scale = maxs - mins))
+#Exploratory Data Analysis
 
-testdata<- as.data.frame(cbind("Party"=test.df[,responseVarName],test.scaled.data,test.df[,numericcolvarNames],test.df[,factorcolvarNames]))
-str(testdata)
+# Average turnout for BJP in the year 2004, 2009 and 2014
+bjp_data <- sqldf('select Year,avg(Turnout) AverageTurnout
+                   from final_election_data
+                   where Party == "BJP"
+                   group by Year')
+
+bjp_data
+
+ggplot(data=bjp_data, aes(x=Year, y=AverageTurnout, fill=Year)) +
+  geom_bar( stat="identity")
+
+# Average turnout for INC in the year 2004, 2009 and 2014
+inc_data <- sqldf('select Year,avg(Turnout) AverageTurnout
+                   from final_election_data
+                  where Party == "INC"
+                  group by Year')
+
+inc_data
+
+ggplot(data=inc_data, aes(x=Year, y=AverageTurnout, fill=Year)) +
+  geom_bar( stat="identity")
 
 
-#test data
-pred<-predict(elec.pred.nn, newdata=testdata[,-1])
-pred
-caret::confusionMatrix(xtabs(~pred+testdata$Party))
+#Average turnout for Others in the year 2004, 2009 and 2014
+others_data <- sqldf('select Year,avg(Turnout) AverageTurnout
+                   from final_election_data
+                  where Party == "Others"
+                  group by Year')
 
-election_2014_data$PredictedValue <- pred
+others_data
 
-write.csv(election_2014_data,"election_2014_data_with_predicted_value.csv")
+ggplot(data=others_data, aes(x=Year, y=AverageTurnout, fill=Year)) +
+  geom_bar( stat="identity")
+
+#Average turnout for BJP in the year 2004, 2009 and 2014 based on Gender
+bjp_data <- sqldf('select Year,Gender, avg(Turnout) AverageTurnout
+                   from final_election_data
+                  where Party == "BJP"
+                  group by Year, Gender')
+
+bjp_data
+
+ggplot(data=bjp_data, aes(x=Year, y=AverageTurnout, fill=Gender)) +
+  geom_bar( stat="identity")
+
+#Average turnout for INC in the year 2004, 2009 and 2014 based on Gender
+inc_data <- sqldf('select Year,Gender,avg(Turnout) AverageTurnout
+                  from final_election_data
+                  where Party == "INC"
+                  group by Year, Gender')
+
+inc_data
+
+ggplot(data=inc_data, aes(x=Year, y=AverageTurnout, fill=Gender)) +
+  geom_bar( stat="identity")
+
+#Average turnout for Others in the year 2004, 2009 and 2014 based on Gender
+others_data <- sqldf('select Year,Gender,avg(Turnout) AverageTurnout
+                     from final_election_data
+                     where Party == "Others"
+                     group by Year, Gender')
+
+others_data
+
+ggplot(data=others_data, aes(x=Year, y=AverageTurnout, fill=Gender)) +
+  geom_bar( stat="identity")
+
+## Average turnout for BJP in the year 2004, 2009 and 2014 based on Gender
+year_2004_data <- sqldf('select count(distinct(Constituency)) seats_count, Party, Year
+                   from final_election_data
+                   where Year == "2004"
+                   group by Party')
+
+year_2004_data
+
+ggplot(data=year_2004_data, aes(x=Party, y=seats_count)) +
+  geom_bar(aes(fill=Party),stat="identity")
+
+## 2009 and Total Seats for BJP, INC and Others
+year_2009_data <- sqldf('select count(distinct(Constituency)) seats_count, Party, Year
+                   from final_election_data
+                        where Year == "2009"
+                        group by Party')
+
+year_2009_data
+
+ggplot(data=year_2009_data, aes(x=Party, y=seats_count)) +
+  geom_bar(aes(fill=Party),stat="identity")
+
+## 2014 and Total Seats for BJP, INC and Others
+year_2014_data <- sqldf('select count(distinct(Constituency)) seats_count, Party, Year
+                   from final_election_data
+                        where Year == "2014"
+                        group by Party')
+
+year_2014_data
+
+ggplot(data=year_2014_data, aes(x=Party, y=seats_count)) +
+  geom_bar(aes(fill=Party),stat="identity")
+
+##Turnout versus Candidate Age
+plot(final_election_data$CandidateAge,final_election_data$Turnout)
+
+##Turnout versus Criminal Cases
+plot(final_election_data$Criminal.Case,final_election_data$Turnout)
+
+##Turnout versus GSDP
+plot(final_election_data$GSDP,final_election_data$Turnout)
+
+## Turnout versus GrowthRateAgri
+plot(final_election_data$GrowthRateAgri,final_election_data$Turnout)
+
+## Average Turnout across different Education Levels
+turnoutandeducationdata <- sqldf('select avg(Turnout) AverageTurnout, Education from final_election_data
+                                 group by Education')
+turnoutandeducationdata
+
+pie(turnoutandeducationdata$AverageTurnout, labels = turnoutandeducationdata$Education, main="Pie Chart of Average Turnout and Votes")

@@ -1,0 +1,587 @@
+Constituency,Type,State,Party,Turnout,Gender,PrevParty,GSDP,Candidate,Criminal.Case,Education,Total.Assets,Liabilities,CandidateAge,GrowthRateAgri
+Adilabad,GEN,Andhra Pradesh,Telangana Rashtra Samithi,72.80%,M,Telugu Desam,6.29,MADHUSUDHAN REDDY THAKKALA,0,Graduate Professional,7550000,120000,59,15.14
+Adilabad,GEN,Andhra Pradesh,INC,65%,M,Telugu Desam,6.29,Allola Indrakaran Reddy,0,Others,,,,15.14
+Adoor,SC,Kerala,Communist Party Of India,71.10%,M,INC,5.57,CHENGARA SURENDRAN,0,Graduate,6274,41438,36,-1.39
+Agra,GEN,Uttar Pradesh,Samajwadi Party,44.90%,M,Samajwadi Party,5,RAJ BABBAR,2,Graduate,22326400,1.00E+06,52,3.85
+Ahmedabad,GEN,Gujarat,BJP,39.70%,M,BJP,12.5,HARIN PATHAK,1,Graduate Professional,10287931,0,56,39.89
+Ahmednagar,GEN,Maharashtra,Nationalist Congress Party,53.00%,M,BJP,10.7,GADAKH TUKARAM GANGADHAR,2,Graduate,23446680,4680000,51,10.43
+Ajmer,GEN,Rajasthan,BJP,44.00%,M,BJP,2.12,RASA SINGH RAWAT,0,Post Graduate,1471446,0,61,81.37
+Akabarpur,GEN,Uttar Pradesh ,SP,NA,M,Bahujan Samaj Party,5,Shankhlal Majhi,,Others,,,,3.85
+Akbarpur,SC,Uttar Pradesh ,Bahujan Samaj Party,51.30%,F,Bahujan Samaj Party,5,MAYAWATI,1,Graduate Professional,113544000,0,48,3.85
+Akola,GEN,Maharashtra,BJP,57.80%,M,Bharipa Bahujan Mahasangh,10.7,DHOTRE SANJAY SHAMRAO,0,Graduate Professional,12289645,2408285,45,10.43
+Aligarh,GEN,Uttar Pradesh,INC,47.20%,M,BJP,5,BIJENDRA SINGH,0,Graduate,2892600,0,49,3.85
+Alipurduars,ST,West Bengal,Revolutionary Socialist Party,80.10%,M,Revolutionary Socialist Party,2.66,Joachim Baxla,0,Graduate,485800,0,49,3.56
+Allahabad,GEN,Uttar Pradesh ,Samajwadi Party,42.10%,M,BJP,5,KUNWAR REWATI RAMAN SINGH URF MANI JI,1,Graduate Professional,22837000,1050000,60,3.85
+Alleppey,GEN,Kerala,Communist Party Of India (MARXIST),75.00%,M,INC,5.57,DR. K. S. MANOJ,0,Doctorate,800231,54317,39,-1.39
+Almora,GEN,Uttarakhand,BJP,49.80%,M,BJP,17.77,,,Others,,,,4.87
+Alwar,GEN,Rajasthan,INC,42.80%,M,BJP,2.12,DR. KARAN SINGH YADAV,0,Post Graduate,4023529,1022864,59,81.37
+Amalapuram,SC,Andhra Pradesh,INC,77.70%,M,Telugu Desam,6.29,RAHUL GANDHI,,Others,,,32,15.14
+Ambala,SC,Haryana,INC,70.70%,F,BJP,9.42,SELJA,0,Post Graduate,7176087,0,41,7.73
+Amethi,GEN,Uttar Pradesh ,INC,44.50%,M,INC,5,RAHUL GANDHI,0,Post Graduate,5538123,0,32,3.85
+Amravati,GEN,Maharashtra,Shiv Sena,56.10%,M,Shiv Sena,10.7,ANANT GUDHE,0,Graduate,3532477,217263,48,10.43
+Amreli,GEN,Gujarat,INC,46.40%,M,BJP,12.5,VIRJIBHAI THUMMAR,1,Graduate,15227334,87000,43,39.89
+Amritsar,GEN,Punjab,BJP,67.20%,M,INC,4.08,Navjot Singh Sidhu,,Others,,,,5.76
+Amritsar,GEN,Punjab,BJP,55.10%,M,INC,4.08,NAVJOT SINGH SIDHU,1,Graduate,64211374,398529,41,5.76
+Amroha,GEN,Uttar Pradesh ,Independent,65.90%,M,Bahujan Samaj Party,5,HARISH NAGPAL,0,10th Pass,67234623,0,35,3.85
+Anakapalli,GEN,Andhra Pradesh,Telugu Desam,76.40%,M,Telugu Desam,6.29,CHALAPATHIRAO PAPPALA,0,Graduate,5396505,246000,58,15.14
+Anand,GEN,Gujarat,INC,51.70%,M,BJP,12.5,SOLANKI BHARATSINH MADHAVSINH,0,Graduate Professional,996308,0,50,39.89
+Anantapur,GEN,Andhra Pradesh,INC,68.20%,M,Telugu Desam,6.29,ANANTHA VENKATA RAMI REDDY,0,Post Graduate,3890000,437636,47,15.14
+Anantnag,GEN,Jammu & Kashmir,Jammu & Kashmir Peoples Democratic Party,14.70%,F,Jammu & Kashmir National Conference,4.29,MEHBOOBA MUFTI,0,Graduate Professional,450000,0,42,8.88
+Andaman & Nicobar Islands,GEN,Andaman & Nicobar Islands,INC,63.70%,M,BJP,49.2,MANORANJAN BHAKTA,0,Post Graduate,5926740,272061,,-19.83
+Aonla,GEN,Uttar Pradesh ,Janata Dal (United),46.80%,M,Samajwadi Party,5,KUNWAR SARVRAJ SINGH,1,Graduate Professional,14281673,0,49,3.85
+Arakkonam,GEN,Tamil Nadu,Pattali Makkal Katchi,66.70%,M,Dravida Munetra Kazhagam,8.84,"VELU, R.",0,Post Graduate,4610868,97947,63,-2.42
+Arambagh,GEN,West Bengal,Communist Party Of India (MARXIST),80.90%,M,Communist Party Of India (MARXIST),2.66,Anil Basu,0,Literate,1042327,0,59,3.56
+Araria,SC,Bihar ,BJP,55.10%,M,Rashtriya Janata Dal,-6.57,SUKDEO PASWAN,1,10th Pass,5934736,571481,51,-16.27
+Arrah,GEN,Bihar ,Rashtriya Janata Dal,57.90%,F,Rashtriya Janata Dal,-6.57,KANTI SINGH,0,Graduate,11602840,33797,47,-16.27
+Arunachal East,GEN,Arunachal Pradesh,BJP,56.20%,M,INC,84.81,TAPIR GAO,0,Post Graduate,5516640,50000,42,3.69
+Arunachal West,GEN,Arunachal Pradesh,BJP,55.90%,M,INC,84.81,KHIREN RIJIJU,0,Graduate,6511344,0,32,3.69
+Asansol,GEN,West Bengal,Communist Party Of India (MARXIST),66.40%,M,Communist Party Of India (MARXIST),2.66,Bikash Chowdhury,0,Others,2912206,0,69,3.56
+Asansol,GEN,West Bengal,CPI(M),60%,M,Communist Party Of India (MARXIST),3.66,Bansagopal Choudhury,0,Others,,,,3.56
+Aska,GEN,Orissa,Biju Janata Dal,54.40%,M,Biju Janata Dal,21.93,HARI HAR SWAIN,0,12th Pass,12192000,1586478,69,22.81
+Aurangabad,GEN,Bihar ,INC,54.70%,M,Shiv Sena,-6.57,NIKHIL KUMAR,0,Post Graduate,74489984,1220000,63,-16.27
+Aurangabad,GEN,Maharashtra,Shiv Sena,55.70%,M,INC,10.7,CHANDRAKANT KHAIRE,13,Graduate,9333773,6043722,52,10.43
+Autonomous District,ST,Assam,INC,69.30%,M,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),9.51,BIREN SINGH ENGTI,0,Post Graduate,5389194,0,62,1.51
+Azamgarh,GEN,Uttar Pradesh ,BSP,41.50%,M,Samajwadi Party,5,Akbar Ahamad Dampi,,Others,,,,3.85
+Azamgarh,GEN,Uttar Pradesh ,Bahujan Samaj Party,49.90%,M,Samajwadi Party,5,RAMAKANT YADAV,9,10th Pass,17358777,2.00E+05,43,3.85
+Badagara,GEN,Kerala,Communist Party Of India (MARXIST),75.60%,F,Communist Party Of India (MARXIST),5.57,P. SATHEEDEVI,1,Graduate Professional,1331000,0,47,-1.39
+Bagaha,SC,Bihar ,Janata Dal (United),49.20%,M,Janata Dal (United),-6.57,KAILASH BAITHA,0,10th Pass,49000,35000,Unknown,-16.27
+Bagalkot,GEN,Karnataka,BJP,65.40%,M,INC,3.22,GADDIGOUDAR PARVATAGOUDA CHANDANAGOUDA,0,Graduate Professional,5375000,1.00E+06,52,-12.81
+Baghpat,GEN,Uttar Pradesh ,Rashtriya Lok Dal,41.80%,M,Rashtriya Lok Dal,5,AJIT SINGH,0,Post Graduate,13423683,1456567,65,3.85
+Bahraich,GEN,Uttar Pradesh ,Samajwadi Party,38.60%,F,BJP,5,RUBAB SAYEDA,0,Post Graduate,15346459,0,54,3.85
+Balaghat,GEN,Madhya Pradesh ,BJP,60.90%,M,BJP,-2.8,GAURI SHANKAR CHATURBHUJ BISEN,0,Post Graduate,9667350,1491190,52,36.75
+Balasore,GEN,Orissa,BJP,71.30%,M,BJP,21.93,MAHAMEGHA BAHAN AIRA KHARBELA SWAIN,0,Post Graduate,1010000,0,51,22.81
+Balia,GEN,Bihar ,Lok Jan Shakti Party,53.50%,M,Janata Dal (United),-6.57,SURAJ SINGH,17,Literate,1516070,60024,38,-16.27
+Ballia,GEN,Uttar Pradesh ,Samajwadi Janata Party (RASHTRIYA),43.30%,M,Samajwadi Janata Party (RASHTRIYA),5,CHANDRA SHEKHAR,0,Post Graduate,4035983,1145552,76,3.85
+Ballia,GEN,Uttar Pradesh ,SP,35.60%,M,Samajwadi Janata Party (RASHTRIYA),5,Neeraj Shekhar,0,Others,,,,3.85
+Balrampur,GEN,Uttar Pradesh ,BJP,53.10%,M,Samajwadi Party,5,BRIJ BHUSHAN SHARAN SINGH,2,Graduate Professional,35810577,0,47,3.85
+Balurghat,SC,West Bengal,Revolutionary Socialist Party,81.50%,M,Revolutionary Socialist Party,2.66,Ranen Barman,0,10th Pass,968333,0,35,3.56
+Banaskantha,GEN,Gujarat,INC,49.00%,M,BJP,12.5,CHAVDA HARISINHAJI PRATAPSINHAJI,1,10th Pass,17693895,0,73,39.89
+Banda,GEN,Uttar Pradesh ,Samajwadi Party,41.00%,M,Bahujan Samaj Party,5,SHYAMA CHARAN GUPT,0,Graduate Professional,112456867,0,57,3.85
+Bangalore North,GEN,Karnataka,BJP,54.20%,M,INC,3.22,DR. H.T. SANGLIANA,0,Graduate,7666050,0,61,-12.81
+Bangalore South,GEN,Karnataka,BJP,49.40%,M,BJP,3.22,,,Others,,,,-12.81
+Banka,GEN,Bihar ,Rashtriya Janata Dal,58.80%,M,Janata Dal (United),-6.57,GIRIDHARI YADAV,0,Post Graduate,2841000,351513,40,-16.27
+Bankura,GEN,West Bengal,Communist Party Of India (MARXIST),67.80%,M,Communist Party Of India (MARXIST),2.66,Acharia Basudeb,0,Post Graduate,1708375,0,62,3.56
+Bansgaon,SC,Uttar Pradesh ,INC,43.90%,M,BJP,5,MAHAVEER PRASAD,0,Post Graduate,8944794,0,60,3.85
+Banswara,ST,Rajasthan,BJP,48.40%,M,INC,2.12,DHAN SINGH RAWAT,2,Graduate Professional,1905788,250000,37,81.37
+Bapatla,GEN,Andhra Pradesh,INC,77.30%,F,Telugu Desam,6.29,DAGGUBATI PURANDARESWARI,0,Others,40907640,5212201,44,15.14
+Bara Banki,SC,Uttar Pradesh ,Bahujan Samaj Party,44.50%,M,Samajwadi Party,5,KAMLA PRASAD,0,Graduate,4699000,5.00E+05,41,3.85
+Baramati,GEN,Maharashtra,Nationalist Congress Party,48.30%,M,Nationalist Congress Party,10.7,PAWAR SHARADCHANDRA GOVINDRAO,1,10th Pass,44814206,13301,63,10.43
+Baramulla,GEN,Jammu & Kashmir,Jammu & Kashmir National Conference,35.50%,M,Jammu & Kashmir National Conference,4.29,ABDUL RASHID SHAHEEN,0,Post Graduate,17174843,1056615,54,8.88
+Barasat,GEN,West Bengal,All India Forward Bloc,82.80%,M,All India Trinamool Congress,2.66,Subrata Bose,0,Graduate,2386568,35700,,3.56
+Bareilly,GEN,Uttar Pradesh ,BJP,52.90%,M,BJP,5,SANTOSH GANGWAR,0,Post Graduate,7043413,250154,54,3.85
+Barh,GEN,Bihar ,Rashtriya Janata Dal,69.50%,M,Janata Dal (United),-6.57,VIJAY KRISHNA,1,Post Graduate,5832524,27725,53,-16.27
+Barmer,GEN,Rajasthan,BJP,63.90%,M,INC,2.12,MANVENDRA SINGH,0,Post Graduate,4656839,73531,,81.37
+Baroda,GEN,Gujarat,BJP,39.40%,F,BJP,12.5,,,Others,,,,39.89
+Barpeta,GEN,Assam,INC,70.90%,M,INC,9.51,A. F. GOLAM OSMANI,0,Graduate Professional,1005000,0,73,1.51
+Barrackpore,GEN,West Bengal,Communist Party Of India (MARXIST),80.80%,M,Communist Party Of India (MARXIST),2.66,Tarit Baran Topdar,0,Post Graduate,9453015,0,,3.56
+Basirhat,GEN,West Bengal,Communist Party Of India,81.80%,M,Communist Party Of India,2.66,Ajay Chakraborty,0,Graduate Professional,7218672,0,60,3.56
+Bastar,ST,Chhattisgarh,BJP,43.30%,M,BJP,18.79,BALIRAM KASHYAP,1,8th Pass,1865382,177442,67,43.14
+Basti,SC,Uttar Pradesh ,Bahujan Samaj Party,40.70%,M,BJP,5,LAL MANI PRASAD,0,Graduate,1071480,0,52,3.85
+Bayana,SC,Rajasthan,BJP,40.90%,M,BJP,2.12,RAMSWAROOP KOLI,3,8th Pass,1053100,0,,81.37
+Beed,GEN,Maharashtra,Nationalist Congress Party,66.90%,M,BJP,10.7,,,Others,,,,10.43
+Begusarai,GEN,Bihar ,Janata Dal (United),53.00%,M,INC,-6.57,RAJIV RANJAN SINGH,0,Graduate,6746462,0,49,-16.27
+Belgaum,GEN,Karnataka,BJP,65.90%,M,INC,3.22,ANGADI SURESH CHANABASAPPA,0,Graduate Professional,47466695,8852490,48,-12.81
+Bellary,GEN,Karnataka,BJP,66.70%,M,INC,3.22,G. KARUNAKARA REDDY,0,Graduate,10930950,416228,41,-12.81
+Berhampore,GEN,West Bengal,INC,80.90%,M,INC,2.66,Adhir Ranjan Chowdhury,3,10th Pass,19395174,0,48,3.56
+Berhampur,GEN,Orissa,INC,60.20%,M,BJP,21.93,CHANDRA SEKHAR SAHU,0,Graduate Professional,1419000,0,54,22.81
+Bettiah,GEN,Bihar ,Rashtriya Janata Dal,44.60%,M,BJP,-6.57,RAGHUNATH JHA,2,12th Pass,11267189,0,66,-16.27
+Betul,GEN,Madhya Pradesh ,BJP,48.70%,M,BJP,-2.8,KHANDELWAL VIJAY KUMAR (MUNNI BHAIA),0,Graduate Professional,16507774,953983,68,36.75
+Betul,GEN,Madhya Pradesh ,BJP,60.10%,M,BJp,-2.8,Khandelwal Hemant Vijay Kumar,,Others,,,,36.75
+Bhadrachalam,ST,Andhra Pradesh,Communist Party Of India (MARXIST),69.00%,M,Telugu Desam,6.29,MIDIYAM BABU RAO,0,Graduate Professional,542000,130000,52,15.14
+Bhadrak,SC,Orissa,Biju Janata Dal,69.00%,M,Biju Janata Dal,21.93,,,Others,,,,22.81
+Bhagalpur,GEN,Bihar ,BJP,54.60%,M,Communist Party Of India (MARXIST),-6.57,SUSHIL KUMAR MODI,3,Post Graduate,3410312,935401,51,-16.27
+Bhagalpur,GEN,Bihar ,BJP,35.10%,M,Communist Party Of India (MARXIST),-6.57,Syed Shahnawaz Husain,,Others,,,,-16.27
+Bhandara,GEN,Maharashtra,BJP,67.60%,M,BJP,10.7,PATLE SHISHUPAL NATTHU,0,Graduate Professional,1184050,12000,36,10.43
+Bharatpur,GEN,Rajasthan,BJP,48.40%,M,BJP,2.12,VISHVENDRA SINGH,0,12th Pass,87894237,525000,41,81.37
+Bhatinda,SC,Punjab,Shiromani Akali Dal,59.40%,F,Communist Party Of India,4.08,PARAMJIT KAUR GULSHAN,0,Post Graduate,6507661,0,56,5.76
+Bhavnagar,GEN,Gujarat,BJP,36.00%,M,BJP,12.5,RANA RAJENDRASINH GHANASHYAMSINH (RAJUBHAI RANA),0,Graduate Professional,2350613,0,,39.89
+Bhilwara,GEN,Rajasthan,BJP,50.20%,M,BJP,2.12,VIJAYENDRAPAL SINGH,0,Graduate,23765671,250000,55,81.37
+Bhind,GEN,Madhya Pradesh ,BJP,43.70%,M,BJP,-2.8,DR. RAMLAKHAN SINGH,1,Graduate Professional,5774939,284945,52,36.75
+Bhiwani,GEN,Haryana,INC,73.00%,M,Indian National Lok Dal,9.42,KULDEEP BISHNOI,0,Graduate,143724090,21865304,35,7.73
+Bhopal,GEN,Madhya Pradesh ,BJP,46.40%,M,BJP,-2.8,KAILASH JOSHI,0,10th Pass,2695080,0,73,36.75
+Bhubaneswar,GEN,Orissa,Biju Janata Dal,57.20%,M,Biju Janata Dal,21.93,PRASANNA KUMAR PATASANI,0,Post Graduate,4441581,0,56,22.81
+Bidar,SC,Karnataka,BJP,59.40%,M,BJP,3.22,RAMCHANDRA VEERAPPA,0,Literate,2480708,816000,94,-12.81
+Bidar,GEN,Karnataka,INC,NA,M,BJP,3.22,Narsing Halla Suryawanshi,0,Others,,,,-12.81
+Bijapur,GEN,Karnataka,BJP,59.40%,M,BJP,3.22,BASANAGOUDA R PATIL(YATNAL),2,Graduate,5603503,1200000,41,-12.81
+Bijnor,SC,Uttar Pradesh ,Rashtriya Lok Dal,52.10%,M,BJP,5,Munshiram S/o Sri Ramcharan Singh,0,Others,2942225,720000,53,3.85
+Bikaner,GEN,Rajasthan,BJP,56.60%,M,INC,2.12,DHARMENDRA,0,12th Pass,230326000,5428225,68,81.37
+Bikramganj,GEN,Bihar ,Janata Dal (United),56.50%,M,Rashtriya Janata Dal,-6.57,AJIT KUMAR SINGH,0,Post Graduate,14362110,0,45,-16.27
+Bilaspur,SC,Chhattisgarh,BJP,44.00%,M,BJP,18.79,PUNNULAL MOHLE,0,12th Pass,3727718,0,52,43.14
+Bilhaur,GEN,Uttar Pradesh ,Bahujan Samaj Party,46.80%,M,BJP,5,RAJA RAM PAL,0,Graduate Professional,1471113,2.00E+05,43,3.85
+Bilhaur,GEN,Uttar Pradesh ,BSP,47.50%,M,BJP,5,Anil Shukla Warsi,0,Others,,,,3.85
+Birbhum,SC,West Bengal,Communist Party Of India (MARXIST),70.10%,M,Communist Party Of India (MARXIST),2.66,Ram Chandra Dome,0,Doctorate,409541,2862,46,3.56
+Bobbili,GEN,Andhra Pradesh,Telugu Desam,76.40%,M,INC,6.29,KONDAPALLI PYDITHALLI NAIDU,0,Others,1979000,50000,73,15.14
+Bobbili,GEN,Andhra Pradesh,INC,69.30%,M,INC,6.29,Jhansi Lakshmi Botcha,,Others,,,,15.14
+Bolangir,GEN,Orissa,BJP,66.20%,F,BJP,21.93,SANGEETA KUMARI SINGH DEO,0,Graduate,26899686,383762,42,22.81
+Bolpur,GEN,West Bengal,Communist Party Of India (MARXIST),74.20%,M,Communist Party Of India (MARXIST),2.66,Chatterjee Somnath,0,Post Graduate,10551015,0,74,3.56
+Broach,GEN,Gujarat,BJP,54.90%,M,BJP,12.5,VASAVA MANSUKHBHAI DHANJIBHAI,0,Post Graduate,1583619,0,47,39.89
+Budaun,GEN,Uttar Pradesh ,Samajwadi Party,49.20%,M,Samajwadi Party,5,SALEEM IQBAL SHERVANI,0,Graduate,96980000,5940,51,3.85
+Bulandshahr,GEN,Uttar Pradesh ,BJP,55.90%,M,BJP,5,KALYAN SINGH,0,Graduate Professional,6209253,0,72,3.85
+Buldhana,SC,Maharashtra,Shiv Sena,63.50%,M,Shiv Sena,10.7,ADSUL ANANDRAO VITHOBA,2,Graduate,20630019,6111246,56,10.43
+Bulsar,ST,Gujarat,INC,52.30%,M,BJP,12.5,KISHANBHAI VESTABHAI PATEL,2,10th Pass,279461,0,39,39.89
+Burdwan,GEN,West Bengal,Communist Party Of India (MARXIST),81.40%,M,Communist Party Of India (MARXIST),2.66,Nikhilananda Sar,0,Graduate Professional,3431414,0,66,3.56
+Buxar,GEN,Bihar ,BJP,53.10%,M,BJP,-6.57,LALMUNI CHAUBEY,0,12th Pass,8431336,0,66,-16.27
+Calcutta North East,GEN,West Bengal,Communist Party Of India (MARXIST),70.60%,M,All India Trinamool Congress,2.66,Md. Salim,0,Post Graduate,3109485,0,46,3.56
+Calcutta North West,GEN,West Bengal,Communist Party Of India (MARXIST),59.00%,M,All India Trinamool Congress,2.66,,,Others,,,,3.56
+Calcutta South,GEN,West Bengal,All India Trinamool Congress,70.30%,F,All India Trinamool Congress,2.66,Mamata Banerjee,0,Post Graduate,375489,0,48,3.56
+Calicut,GEN,Kerala,Janata Dal (Secular),70.20%,M,INC,5.57,M. P. VEERENDRA KUMAR,0,Post Graduate,47621096,4654480,66,-1.39
+Cannanore,GEN,Kerala,Communist Party Of India (MARXIST),78.80%,M,Communist Party Of India (MARXIST),5.57,,,Others,,,46,-1.39
+Chail,SC,Uttar Pradesh ,Samajwadi Party,37.40%,M,Bahujan Samaj Party,5,M. SHIVANNA,0,12th Pass,9337424,1092000,56,3.85
+Chamarajanagar,SC,Karnataka,Janata Dal (Secular),71.70%,M,Janata Dal (United),3.22,KAILASH NATH SINGH YADAV,1,Graduate,942100,10000,40,-12.81
+Chandauli,GEN,Uttar Pradesh ,Bahujan Samaj Party,44.60%,M,Samajwadi Party,5,PAWAN KUMAR BANSAL,0,Graduate,5843089,0,55,3.85
+Chandigarh,GEN,Chandigarh,INC,51.10%,M,INC,3.6,KAPIL SIBAL,0,Graduate Professional,17550052,0,55,-2.45
+Chandni Chowk,GEN,Delhi ,INC,53.00%,M,BJP,-7.86,AHIR HANSRAJ GANGARAM,0,Post Graduate,158850000,0,49,1.01
+Chandrapur,GEN,Maharashtra,BJP,63.20%,M,INC,10.7,LALU PRASAD,16,10th Pass,2653960,0,55,10.43
+Chapra,GEN,Bihar ,Rashtriya Janata Dal,38.30%,M,BJP,-6.57,DHIRENDRA AGARWAL,7,Graduate Professional,8768342,22041400,45,-16.27
+Chatra,GEN,Jharkhand,Rashtriya Janata Dal,44.50%,M,Rashtriya Janata Dal,8.97,"MOORTHY, A.K.",1,Doctorate,28085948,750000,40,3.16
+Chengalpattu,GEN,Tamil Nadu,Pattali Makkal Katchi,64.90%,M,Pattali Makkal Katchi,8.84,KAMALNATH,0,Post Graduate,3696741,369957,57,-2.42
+Chhindwara,GEN,Madhya Pradesh ,INC,65.70%,M,INC,-2.8,NARANBHAI RATHWA,0,Graduate,51839379,0,51,36.75
+Chhota Udaipur,ST,Gujarat,INC,52.20%,M,BJP,12.5,"PONNUSWAMY, E.",0,Post Graduate,2793000,271125,67,39.89
+Chidambaram,SC,Tamil Nadu,Pattali Makkal Katchi,65.90%,M,Pattali Makkal Katchi,8.84,R.L. JALAPPA,0,Post Graduate,420000,318534,77,-2.42
+Chikballapur,GEN,Karnataka,INC,70.70%,M,INC,3.22,JIGAJINAGI RAMESH CHANDAPPA,0,Graduate,40239308,105000,52,-12.81
+Chikkodi,SC,Karnataka,BJP,70.60%,M,Janata Dal (United),3.22,D. C. SRIKANTAPPA,0,Graduate,5480600,75000,76,-12.81
+Chikmagalur,GEN,Karnataka,BJP,72.90%,M,BJP,3.22,SHIVANKAR MAHADEORAO SUKAJI,0,10th Pass,6069785,0,64,-12.81
+Chimur,GEN,Maharashtra,BJP,69.60%,M,BJP,10.7,VARKALA RADHAKRISHNAN,0,Post Graduate,4412847,197913,76,10.43
+Chirayinkil,GEN,Kerala,Communist Party Of India (MARXIST),65.50%,M,Communist Party Of India (MARXIST),5.57,N.Y. HANUMANTHAPPA,0,Graduate Professional,756621,0,64,-1.39
+Chitradurga,GEN,Karnataka,INC,69.70%,M,Janata Dal (United),3.22,D.K. AUDIKESAVULU,0,Post Graduate,6250000,0,63,-12.81
+Chittoor,GEN,Andhra Pradesh,Telugu Desam,74.70%,M,Telugu Desam,6.29,SHRICHAND KRIPLANI,0,Others,670576468,0,46,15.14
+Chittorgarh,GEN,Rajasthan,BJP,48.40%,M,BJP,2.12,RAMSINGH KASWAN,0,Others,2448887,0,,81.37
+Churu,GEN,Rajasthan,BJP,60.70%,M,BJP,2.12,PATEL DAHYABHAI VALLABHBHAI,0,Graduate Professional,13198438,208154,58,81.37
+Coimbatore,GEN,Tamil Nadu,Communist Party Of India,55.40%,M,BJP,8.84,,,Others,,,,-2.42
+Contai,GEN,West Bengal,Communist Party Of India (MARXIST),85.30%,M,All India Trinamool Congress,2.66,Prasanta Pradhan,0,Post Graduate,1410752,15000,63,3.56
+Cooch Behar,SC,West Bengal,All India Forward Bloc,82.50%,M,All India Forward Bloc,2.66,Hiten Barman,0,12th Pass,546676,279146,54,3.56
+Cuddalore,GEN,Tamil Nadu,Dravida Munetra Kazhagam,62.80%,M,Dravida Munetra Kazhagam,8.84,VENKATAPATHY. K,5,Graduate Professional,3617839,0,57,-2.42
+Cuddapah,GEN,Andhra Pradesh,INC,71.20%,M,INC,6.29,Y.S. VIVEKANANDA REDDY,0,Graduate,36227380,0,51,15.14
+Cuttack,GEN,Orissa,Biju Janata Dal,66.30%,M,Biju Janata Dal,21.93,BHARTRUHARI MAHTAB,0,Post Graduate,17843407,169357,47,22.81
+Dadra & Nagar Haveli,ST,Dadra & Nagar Haveli,Bharatiya Navshakti Party,69.00%,M,Independent,0,DELKAR MOHANBHAI SANJIBHAI,0,12th Pass,28619160,1296271,41,0
+Dahanu,ST,Maharashtra,INC,42.60%,M,BJP,10.7,SHINGADA DAMODAR BARKU,0,10th Pass,8657109,0,50,10.43
+Dahod,ST,Gujarat,BJP,42.70%,M,BJP,12.5,,,Others,,,,39.89
+Daman And Diu,GEN,Daman & Diu,INC,70.20%,M,INC,0,PATEL DAHYABHAI VALLABHBHAI,1,12th Pass,54787351,6640008,58,0
+Damoh,GEN,Madhya Pradesh ,BJP,42.30%,M,BJP,-2.8,CHANDRABHAN BHAIYA,0,8th Pass,10348557,325874,47,36.75
+Darbhanga,GEN,Bihar ,Rashtriya Janata Dal,63.60%,M,BJP,-6.57,MD. ALI ASHRAF FATMI,0,Post Graduate,2071240,545183,48,-16.27
+Darjeeling,GEN,West Bengal,INC,71.00%,M,Communist Party Of India (MARXIST),2.66,Dawa Narbula,0,Post Graduate,7065000,2.00E+05,67,3.56
+Dausa,GEN,Rajasthan,INC,48.90%,M,INC,2.12,SACHIN PILOT,0,Post Graduate,2555000,0,26,81.37
+Davangere,GEN,Karnataka,BJP,68.20%,M,BJP,3.22,G.M. SIDDESWARA,0,10th Pass,50282989,0,52,-12.81
+Delhi Sadar,GEN,Delhi ,INC,57.60%,M,BJP,-7.86,,,Others,,,,1.01
+Deogarh,GEN,Orissa,BJP,67.50%,M,BJP,21.93,DHARMENDRA PRADHAN,0,Post Graduate,476756,306250,35,22.81
+Deoria,GEN,Uttar Pradesh ,Samajwadi Party,46.50%,M,BJP,5,MOHAN SINGH,0,Others,8468000,150000,58,3.85
+Dhanbad,GEN,Jharkhand,INC,53.80%,M,BJP,8.97,CHANDRA SHEKHAR DUBEY,0,10th Pass,10250582,323838,62,3.16
+Dhandhuka,SC,Gujarat,BJP,44.70%,M,BJP,12.5,VARMA RATILAL KALIDAS,0,Post Graduate,7900277,3881919,55,39.89
+Dhar,ST,Madhya Pradesh ,BJP,53.00%,M,INC,-2.8,CHHATAR SINGH DARBAR,1,Post Graduate,2885302,271133,50,36.75
+Dharmapuri,GEN,Tamil Nadu,Pattali Makkal Katchi,54.60%,M,Pattali Makkal Katchi,8.84,,,Others,,,,-2.42
+Dharwad North,GEN,Karnataka,BJP,64.80%,M,BJP,3.22,PRALHAD JOSHI,4,Graduate,7760188,32587745,42,-12.81
+Dharwad South,GEN,Karnataka,BJP,71.80%,M,INC,3.22,KUNNUR MANJUNATH CHANNAPPA,0,Post Graduate,12862400,730000,49,-12.81
+Dhenkanal,GEN,Orissa,Biju Janata Dal,67.30%,M,INC,21.93,TATHAGATA SATAPATHY,5,Others,2775930,0,48,22.81
+Dhubri,GEN,Assam,INC,75.10%,M,INC,9.51,ANWAR HUSSAIN,0,Graduate Professional,558467,225000,58,1.51
+Dhule,ST,Maharashtra,INC,37.10%,M,BJP,10.7,CHAURE BAPU HARI,1,Graduate,3039824,0,55,10.43
+Diamond Harbour,GEN,West Bengal,Communist Party Of India (MARXIST),75.80%,M,Communist Party Of India (MARXIST),2.66,Samik Lahiri,0,Graduate,232000,0,37,3.56
+Dibrugarh,GEN,Assam,Asom Gana Parisad,65.10%,M,INC,9.51,SARBANANDA SONOWAL,0,Graduate Professional,2038397,758854,42,1.51
+Dindigul,GEN,Tamil Nadu,INC,60.60%,M,All India Anna Dravida Munnetra Kazhagam,8.84,"CHITTHAN, N. S. V.",0,Graduate,13247227,875536,70,-2.42
+Domariaganj,GEN,Uttar Pradesh ,Bahujan Samaj Party,47.60%,M,BJP,5,MOHD. MUQUEEM,2,10th Pass,4902000,0,53,3.85
+Dum Dum,GEN,West Bengal,Communist Party Of India (MARXIST),80.70%,M,BJP,2.66,Amitava Nandy,0,12th Pass,2935137,0,61,3.56
+Dumka,ST,Jharkhand,Jharkhand Mukti Morcha,57.70%,M,BJP,8.97,SHIBU SOREN,4,10th Pass,3776022,8013462,59,3.16
+Durg,GEN,Chhattisgarh,BJP,52.00%,M,BJP,18.79,TARACHAND SAHU,0,Post Graduate,3205175,1060847,57,43.14
+Durgapur,SC,West Bengal,Communist Party Of India (MARXIST),73.40%,M,Communist Party Of India (MARXIST),2.66,Sunil Khan,0,Graduate,2796700,0,,3.56
+East Delhi,GEN,Delhi ,INC,45.70%,M,BJP,-7.86,SANDEEP DIKSHIT,0,Post Graduate,4764901,246779,39,1.01
+Eluru,GEN,Andhra Pradesh,INC,77.70%,M,Telugu Desam,6.29,KAVURU SAMBA SIVA RAO,0,Others,117898221,191621,60,15.14
+Erandol,GEN,Maharashtra,BJP,50.20%,M,BJP,10.7,ANNASAHEB M. K. PATIL,0,Post Graduate,4492440,944685,64,10.43
+Erandol,GEN,Maharashtra,NCP,35%,M,BJP,10.7,Adv Vasantaray Jeevanarav More,,Others,,,,10.43
+Ernakulam,GEN,Kerala,Independent,61.50%,M,INC,5.57,DR. SEBASTIAN PAUL,0,Doctorate,2993000,764304,56,-1.39
+Etah,GEN,Uttar Pradesh ,Samajwadi Party,52.00%,M,Samajwadi Party,5,KU. DEVENDRA SINGH YADAV,0,Doctorate,117888469,16200,54,3.85
+Etawah,GEN,Uttar Pradesh ,Samajwadi Party,55.70%,M,Samajwadi Party,5,RAGHURAJ SINGH SHAKYA,0,Post Graduate,1924170,0,33,3.85
+Faizabad,GEN,Uttar Pradesh ,Bahujan Samaj Party,51.80%,M,BJP,5,MITRASEN,27,12th Pass,5380516,318855,70,3.85
+Faridabad,GEN,Haryana,INC,54.60%,M,BJP,9.42,AVTAR SINGH BHADANA,0,8th Pass,9763648,0,48,7.73
+Faridkot,GEN,Punjab,Shiromani Akali Dal,70.70%,M,INC,4.08,SUKHBIR SINGH BADAL,1,Post Graduate,133811603,17359781,42,5.76
+Farrukhabad,GEN,Uttar Pradesh ,Samajwadi Party,48.70%,M,Samajwadi Party,5,CHANDRA BHUSHAN SINGH (MUNNOO BABU),0,Post Graduate,9594069,768000,52,3.85
+Fatehpur,GEN,Uttar Pradesh ,Bahujan Samaj Party,39.60%,M,BJP,5,MAHENDRA PRASAD NISHAD,0,Graduate,1082468,56554,34,3.85
+Ferozepur,GEN,Punjab,Shiromani Akali Dal,66.60%,M,Shiromani Akali Dal,4.08,ZORA SINGH MAAN,1,10th Pass,5561000,723000,62,5.76
+Firozabad,SC,Uttar Pradesh ,Samajwadi Party,40.70%,M,Samajwadi Party,5,RAM JI LAL SUMAN,2,Graduate,4235985,0,52,3.85
+Gandhinagar,GEN,Gujarat,BJP,39.70%,M,BJP,12.5,L. K. ADVANI,0,Graduate Professional,13042443,554000,76,39.89
+Ganganagar,SC,Rajasthan,BJP,53.90%,M,BJP,2.12,NIHALCHAND MEGHWAL,0,Graduate,2282422,168941,32,81.37
+Garhwal,GEN,Uttarakhand,BJP,46.20%,M,BJP,17.77,MAJ. GEN. ( RETD) BHUWAN CHANDRA KHANDURI (AVSM),0,Graduate Professional,7242679,0,69,4.87
+Gauhati,GEN,Assam,INC,61.20%,M,BJP,9.51,KIRIP CHALIHA,0,Post Graduate,9202689,205430,49,1.51
+Gaya,SC,Bihar ,Rashtriya Janata Dal,61.50%,M,BJP,-6.57,RAJESH KUMAR MANJHI,0,8th Pass,NA,26000,32,-16.27
+Ghatampur,SC,Uttar Pradesh ,Samajwadi Party,41.80%,M,Bahujan Samaj Party,5,RADHEY SHYAM KORI,0,10th Pass,1868196,0,65,3.85
+Ghazipur,GEN,Uttar Pradesh ,Samajwadi Party,58.90%,M,BJP,5,AFAJAL ANSARI,1,Post Graduate,5085464,38022,50,3.85
+Ghosi,GEN,Uttar Pradesh ,Samajwadi Party,50.60%,M,Bahujan Samaj Party,5,CHANDRADEO PRASAD RAJBHAR,0,Post Graduate,600143,0,48,3.85
+Giridih,GEN,Jharkhand,Jharkhand Mukti Morcha,54.40%,M,BJP,8.97,TEK LAL MAHTO,1,Graduate,625000,0,52,3.16
+Gobichettipalayam,GEN,Tamil Nadu,INC,64.40%,M,All India Anna Dravida Munnetra Kazhagam,8.84,"ELANGOVAN, E. V. K. S.",13,Graduate,5031000,0,55,-2.42
+Godda,GEN,Jharkhand,INC,62.10%,M,BJP,8.97,FURKAN ANSARI,3,Graduate,1499897,8.00E+05,52,3.16
+Godhra,GEN,Gujarat,BJP,47.00%,M,BJP,12.5,SOLANKI BHUPENDRASINH PRABHATSINH,0,Graduate Professional,2724746,0,50,39.89
+Gonda,GEN,Uttar Pradesh ,Samajwadi Party,43.60%,M,BJP,5,KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA,0,Post Graduate,8600704,595401,37,3.85
+Gopalganj,GEN,Bihar ,Rashtriya Janata Dal,56.40%,M,Janata Dal (United),-6.57,ANIRUDH PRASAD ALIAS SADHU YADAV,3,Graduate,5234219,443268,44,-16.27
+Gorakhpur,GEN,Uttar Pradesh ,BJP,48.10%,M,BJP,5,ADITYA NATH,0,Graduate,960672,0,30,3.85
+Gulbarga,GEN,Karnataka,INC,57.50%,M,INC,3.22,IQBAL AHMED SARADGI,0,Graduate Professional,11451875,0,59,-12.81
+Guna,GEN,Madhya Pradesh ,INC,47.00%,M,INC,-2.8,JYOTIRADITYA MADHAVRAO SCINDIA,0,Post Graduate,35827904,0,33,36.75
+Guntur,GEN,Andhra Pradesh,INC,69.90%,M,Telugu Desam,6.29,RAYAPATI SAMBASIVA RAO,0,Others,48198297,9889900,61,15.14
+Gurdaspur,GEN,Punjab,BJP,64.90%,M,BJP,4.08,VINOD KHANNA,0,Graduate,81081889,1236000,58,5.76
+Gwalior,GEN,Madhya Pradesh ,INC,40.90%,M,BJP,-2.8,RAMSEVAK SINGH ( BABUJI),0,5th Pass,5443950,0,,36.75
+Gwalior,GEN,Madhya Pradesh ,BJP,41.40%,M,BJP,-2.8,Yashodhara Raje Scindhia,,Others,,,,36.75
+Hajipur,SC,Bihar ,Lok Jan Shakti Party,64.00%,M,Janata Dal (United),-6.57,RAM VILAS PASWAN,0,Post Graduate,8332433,0,57,-16.27
+Hamirpur,GEN,Himachal Pradesh,BJP,61.10%,M,Bahujan Samaj Party,8.83,RAJNARAYAN ALIAS RAJJU MAHRAJ,0,Graduate Professional,2640727,387411,40,11.5
+Hamirpur,GEN,Himachal Pradesh,BJP,59.90%,M,BJP,8.83,Prem Kumar Dhumal,,Others,,,,11.5
+Hamirpur,GEN,Uttar Pradesh ,Samajwadi Party,51.00%,M,BJP,5,SURESH CHANDEL,0,Post Graduate,6426759,1069724,44,3.85
+Hanamakonda,GEN,Andhra Pradesh,TRS,61.10%,M,Telugu Desam,6.29,Boianapalli Vinod Kumar,,Others,,,,15.14
+Hanamkonda,GEN,Andhra Pradesh,Telangana Rashtra Samithi,68.90%,M,Telugu Desam,6.29,B.VINOD KUMAR,0,Graduate,10011716,0,45,15.14
+Hapur,GEN,Uttar Pradesh ,INC,44.30%,M,BJP,5,SURENDRA PRAKASH GOYAL,1,8th Pass,6164616,0,53,3.85
+Hardoi,SC,Uttar Pradesh ,Samajwadi Party,43.00%,F,Akhil Bhartiya Lok Tantrik Congress,5,USHA VERMA,0,Post Graduate,976000,2.00E+05,37,3.85
+Hardwar,SC,Uttarakhand,Samajwadi Party,53.20%,M,BJP,17.77,RAJENDRA KUMAR,0,8th Pass,2394512,0,33,4.87
+Hassan,GEN,Karnataka,Janata Dal (Secular),70.40%,M,INC,3.22,H. D. DEVEGOWDA,0,Others,11439574,3582261,71,-12.81
+Hathras,SC,Uttar Pradesh ,BJP,40.60%,M,BJP,5,KISHAN LAL DILER,0,Others,2089121,0,80,3.85
+Hazaribagh,GEN,Jharkhand,Communist Party Of India,59.80%,M,BJP,8.97,BHUBNESHWAR PRASAD MEHTA,1,12th Pass,970342,250000,60,3.16
+Hindupur,GEN,Andhra Pradesh,INC,73.40%,M,Telugu Desam,6.29,NIZAMODDIN,0,Graduate,1405000,200779,50,15.14
+Hingoli,GEN,Maharashtra,Nationalist Congress Party,61.20%,F,Shiv Sena,10.7,SURYAKANTA PATIL,2,Graduate,15307225,272088,55,10.43
+Hissar,GEN,Haryana,INC,67.70%,M,Indian National Lok Dal,9.42,JAI PARKASH,5,12th Pass,4568812,245760,51,7.73
+Hooghly,GEN,West Bengal,Communist Party Of India (MARXIST),79.20%,M,Communist Party Of India (MARXIST),2.66,Rupchand Pal,0,Post Graduate,893720,435000,67,3.56
+Hoshangabad,GEN,Madhya Pradesh ,BJP,49.20%,M,BJP,-2.8,SARTAJ SINGH,0,Graduate,14878898,654724,62,36.75
+Hoshiarpur,GEN,Punjab,BJP,57.60%,M,INC,4.08,AVINASH RAI KHANNA,0,Graduate Professional,1623665,0,43,5.76
+Howrah,GEN,West Bengal,Communist Party Of India (MARXIST),73.30%,M,Communist Party Of India (MARXIST),2.66,Swadesh Chakrabortty,0,Graduate,1545667,0,,3.56
+Hyderabad,GEN,Andhra Pradesh,All India Majlis-E-Ittehadul Muslimoon,55.70%,M,All India Majlis-E-Ittehadul Muslimoon,6.29,ASADUDDIN OWAISI,3,Graduate Professional,3902342,0,37,15.14
+Ichalkaranji,GEN,Maharashtra,Nationalist Congress Party,65.00%,F,Nationalist Congress Party,10.7,MANE NIVEDITA SAMBHAJIRAO,0,Graduate,7913845,387564,39,10.43
+Idukki,GEN,Kerala,Kerala Congress,70.40%,M,Kerala Congress,5.57,K. FRANCIS GEORGE,1,Graduate Professional,11417962,78919,49,-1.39
+Indore,GEN,Madhya Pradesh ,BJP,50.90%,F,BJP,-2.8,SUMITRA MAHAJAN,0,Post Graduate,4422500,1250000,61,36.75
+Inner Manipur,GEN,Manipur,INC,56.20%,M,Manipur State Congress Party,4.72,DR. THOKCHOM MEINYA,0,Doctorate,1107278,80660,55,14.96
+Jabalpur,GEN,Madhya Pradesh ,BJP,42.50%,M,BJP,-2.8,RAKESH SINGH,0,Graduate,6327291,0,42,36.75
+Jadavpur,GEN,West Bengal,Communist Party Of India (MARXIST),75.30%,M,All India Trinamool Congress,2.66,Sujan Chakraborty,0,Doctorate,1046232,0,,3.56
+Jagatsinghpur,GEN,Orissa,Biju Janata Dal,71.30%,M,Biju Janata Dal,21.93,BRAHMANANDA PANDA,0,Post Graduate,5982315,53760,54,22.81
+Jahanabad,GEN,Bihar ,Rashtriya Janata Dal,69.30%,M,Janata Dal (United),-6.57,GANESH PRASAD SINGH,0,Post Graduate,8990298,294350,57,-16.27
+Jaipur,GEN,Rajasthan,BJP,46.40%,M,BJP,2.12,GIRDHARI LAL BHARGAVA,0,Graduate Professional,14248322,196196,77,81.37
+Jajpur,SC,Orissa,Biju Janata Dal,68.50%,M,Biju Janata Dal,21.93,MOHAN JENA,0,Post Graduate,870000,22568,44,22.81
+Jalaun,SC,Uttar Pradesh ,BJP,44.30%,M,Bahujan Samaj Party,5,BHANU PRATAP SINGH VERMA,1,Post Graduate,446550,114460,44,3.85
+Jalesar,GEN,Uttar Pradesh ,Samajwadi Party,52.40%,M,Samajwadi Party,5,PRO. S.P SINGH BAGHEL,1,Post Graduate,5623000,787357,43,3.85
+Jalgaon,GEN,Maharashtra,BJP,49.70%,M,BJP,10.7,Y. G. MAHAJAN (SIR),1,Post Graduate,6719861,0,63,10.43
+Jalgaon,GEN,Maharashtra,BJP,34.60%,M,BJP,10.7,Jawale Haribhau Madhav,,Others,,,,10.43
+Jalna,GEN,Maharashtra,BJP,60.80%,M,BJP,10.7,DANVE RAOSAHEB DADARAO PATIL,0,12th Pass,9681004,715955,49,10.43
+Jalore,SC,Rajasthan,BJP,45.80%,F,INC,2.12,B. SUSHEELA,0,Post Graduate,9629204,904335,52,81.37
+Jalpaiguri,GEN,West Bengal,Communist Party Of India (MARXIST),80.10%,F,Communist Party Of India (MARXIST),2.66,Minati Sen,0,Graduate Professional,1711703,47377,61,3.56
+Jammu,GEN,Jammu & Kashmir,INC,44.40%,M,BJP,4.29,MADAN LAL SHARMA,0,10th Pass,6217000,149750,51,8.88
+Jamnagar,GEN,Gujarat,INC,40.40%,M,BJP,12.5,AHIR VIKRAMBHAI,0,Graduate,4837028,574600,48,39.89
+Jamshedpur,GEN,Jharkhand,Jharkhand Mukti Morcha,56.60%,M,BJP,8.97,SUNIL KUMAR MAHATO,3,Graduate,3058500,0,38,3.16
+Jamshedpur,GEN,Jharkhand,JMM,45.90%,M,BJP,8.97,Suman Mahato (E),,Others,,,,3.16
+Jangipur,GEN,West Bengal,INC,81.40%,M,Communist Party Of India (MARXIST),2.66,Pranab Mukherjee,0,Doctorate,15204925,217267,67,3.56
+Janjgir,GEN,Chhattisgarh,BJP,52.20%,F,INC,18.79,,,Others,,,,43.14
+Jaunpur,GEN,Uttar Pradesh ,Samajwadi Party,47.10%,M,BJP,5,PARASNATH YADAVA,0,12th Pass,2941300,0,57,3.85
+Jhabua,ST,Madhya Pradesh ,INC,48.70%,M,INC,-2.8,KANTILAL BHURIA,0,Post Graduate,14041825,0,55,36.75
+Jhalawar,GEN,Rajasthan,BJP,47.70%,M,BJP,2.12,DUSHYANT SINGH,0,Post Graduate,7082067,0,33,81.37
+Jhanjharpur,GEN,Bihar ,Rashtriya Janata Dal,60.50%,M,Janata Dal (United),-6.57,DEVENDRA PRASAD YADAV,0,Graduate,1137321,245123,53,-16.27
+Jhansi,GEN,Uttar Pradesh ,Samajwadi Party,53.70%,M,INC,5,CHANDRAPAL SINGH YADAV,1,Post Graduate,5307820,0,47,3.85
+Jhargram,ST,West Bengal,Communist Party Of India (MARXIST),77.00%,M,Communist Party Of India (MARXIST),2.66,Rupchand Murmu,1,12th Pass,1041089,101870,56,3.56
+Jhunjhunu,GEN,Rajasthan,INC,49.60%,M,INC,2.12,SHISH RAM OLA,0,10th Pass,4771614,984980,76,81.37
+Jodhpur,GEN,Rajasthan,BJP,54.90%,M,BJP,2.12,JASWANT SINGH BISHNOI,0,Graduate Professional,6993029,489166,45,81.37
+Jorhat,GEN,Assam,INC,62.00%,M,INC,9.51,BIJOY KRISHNA HANDIQUE,0,Post Graduate,1356192,0,69,1.51
+Joynagar,SC,West Bengal,Revolutionary Socialist Party,71.00%,M,Revolutionary Socialist Party,2.66,Sanat Kumar Mandal,0,Graduate Professional,2189190,0,62,3.56
+Jullundur,GEN,Punjab,INC,60.80%,M,INC,4.08,RANA GURJEET SINGH,0,10th Pass,205828008,2500000,,5.76
+Junagadh,GEN,Gujarat,INC,53.10%,M,BJP,12.5,BARAD JASUBHAI DHANABHAI,2,Graduate,18457408,0,49,39.89
+Kaira,GEN,Gujarat,INC,39.30%,M,INC,12.5,DINSHA PATEL,0,10th Pass,5727475,3083830,67,39.89
+Kairana,GEN,Uttar Pradesh ,Rashtriya Lok Dal,66.90%,F,Rashtriya Lok Dal,5,ANURADHA CHOUDHARY,0,Graduate,43904200,0,43,3.85
+Kaiserganj,GEN,Uttar Pradesh ,Samajwadi Party,44.80%,M,Samajwadi Party,5,BENI PRASAD VERMA,0,Graduate Professional,4112560,0,63,3.85
+Kakinada,GEN,Andhra Pradesh,INC,71.40%,M,Telugu Desam,6.29,,,Others,,,,15.14
+Kalahandi,GEN,Orissa,BJP,66.60%,M,BJP,21.93,BIKRAM KESHARI DEO,0,Graduate,3237000,10823,52,22.81
+Kaliabor,GEN,Assam,INC,66.20%,M,INC,9.51,DIP GOGOI,0,Graduate,342751,0,54,1.51
+Kanakapura,GEN,Karnataka,INC,57.60%,F,INC,3.22,TEJASHWINI SEE RAMESH,0,Post Graduate,1160000,0,37,-12.81
+Kanara,GEN,Karnataka,BJP,68.90%,M,INC,3.22,ANANTHKUMAR HEGDE,3,12th Pass,1206000,13401653,34,-12.81
+Kangra,GEN,Himachal Pradesh,INC,62.00%,M,BJP,8.83,CHANDER KUMAR,0,Post Graduate,7304760,1916918,59,11.5
+Kanker,ST,Chhattisgarh,BJP,48.00%,M,BJP,18.79,SOHAN POTAI,0,Post Graduate,2113856,71932,47,43.14
+Kannauj,GEN,Uttar Pradesh ,Samajwadi Party,56.40%,M,Samajwadi Party,5,AKHILESH YADAV,0,Post Graduate,23142705,0,31,3.85
+Kanpur,GEN,Uttar Pradesh ,INC,43.40%,M,INC,5,SHRIPRAKASH JAISWAL,0,10th Pass,19127260,0,59,3.85
+Kapadvanj,GEN,Gujarat,INC,47.10%,M,INC,12.5,VAGHELA SHANKERSINH LAXMANSINH,0,Post Graduate,7004174,0,64,39.89
+Karad,GEN,Maharashtra,Nationalist Congress Party,60.40%,M,Nationalist Congress Party,10.7,PATIL SHRINIWAS DADASAHEB,0,Post Graduate,12494141,0,63,10.43
+Karimganj,SC,Assam,INC,68.50%,M,INC,9.51,LALIT MOHAN SUKLABAIDYA,0,Post Graduate,4197600,240000,62,1.51
+Karimnagar,GEN,Andhra Pradesh,TRS,55.90%,M,BJP,6.29,K. Chandra Shakher Rao (E),0,Graduate,8598858,2559507,51,15.14
+Karnal,GEN,Haryana,INC,66.00%,M,BJP,9.42,ARVIND KUMAR SHARMA,0,Post Graduate,5736332,0,42,7.73
+Karol Bagh,SC,Delhi ,INC,49.30%,F,BJP,-7.86,KRISHNA TIRATH,0,Graduate Professional,6415254,0,49,1.01
+Karur,GEN,Tamil Nadu,Dravida Munetra Kazhagam,69.50%,M,All India Anna Dravida Munnetra Kazhagam,8.84,"PALANISAMY, K. C.",0,5th Pass,546569007,63920476,69,-2.42
+Kasaragod,GEN,Kerala,Communist Party Of India (MARXIST),77.50%,M,Communist Party Of India (MARXIST),5.57,P. KARUNAKARAN,20,Post Graduate,5190249,10330,59,-1.39
+Katihar,GEN,Bihar ,BJP,60.80%,M,BJP,-6.57,NIKHIL KUMAR CHOUDHARY,1,Graduate,4535938,0,61,-16.27
+Katwa,GEN,West Bengal,Communist Party Of India (MARXIST),82.40%,M,Communist Party Of India (MARXIST),2.66,Mahboob Zahedi,0,10th Pass,2705606,332383,72,3.56
+Katwa,GEN,West Bengal,CPM,75.80%,M,Communist Party Of India (MARXIST),2.66,Abu Ayes Mondal,,Others,,,,3.56
+Kendrapara,GEN,Orissa,Biju Janata Dal,70.50%,F,Biju Janata Dal,21.93,ARCHANA NAYAK,0,Post Graduate,384400,32000,38,22.81
+Keonjhar,ST,Orissa,BJP,68.80%,M,BJP,21.93,ANANTA NAYAK,0,12th Pass,818420,69086,34,22.81
+Khagaria,GEN,Bihar ,Rashtriya Janata Dal,56.50%,M,Janata Dal (United),-6.57,RABINDRA KU. RANA,1,Graduate Professional,6336271,0,58,-16.27
+Khajuraho,GEN,Madhya Pradesh ,BJP,49.70%,M,INC,-2.8,DR. RAMKRISHNA KUSHMARIYA ( BABA JEE ),0,Doctorate,5183173,986766,61,36.75
+Khalilabad,GEN,Uttar Pradesh ,Bahujan Samaj Party,50.20%,M,Samajwadi Party,5,BHALCHANDRA YADAVA,10,Graduate,651000,260630,40,3.85
+Khalilabad,GEN,Uttar Pradesh ,BSP,39.60%,M,Samajwadi Party,5,Bhishma Shanker Alias Kushal Tiwari,,Others,,,,3.85
+Khammam,GEN,Andhra Pradesh,INC,78.60%,F,INC,6.29,RENUKA CHOWDHURY,1,Post Graduate,136912161,300414,49,15.14
+Khandwa,GEN,Madhya Pradesh ,BJP,49.70%,M,BJP,-2.8,NAND KUMAR SINGH CHAUHAN ( NANDU BHAIYA),0,Graduate,4510192,947000,47,36.75
+Khargone,GEN,Madhya Pradesh ,INC,59.50%,M,INC,-2.8,Arun Suchash Chandra Yadav,,Others,,,,36.75
+Khargone,GEN,Madhya Pradesh ,BJP,50.60%,M,INC,-2.8,KRISHNA MURARI MOGHE,0,Graduate,7414005,88719,53,36.75
+Khed,GEN,Maharashtra,Shiv Sena,55.50%,M,Nationalist Congress Party,10.7,ADHALARAO PATIL SHIVAJIRAO,0,Post Graduate,52230281,12332651,48,10.43
+Kheri,GEN,Uttar Pradesh ,Samajwadi Party,49.20%,M,Samajwadi Party,5,RAVI PRAKASH VERMA,0,Graduate Professional,2916963,246079,44,3.85
+Khunti,ST,Jharkhand,INC,54.20%,F,BJP,8.97,SUSHILA KERKETTA,0,Post Graduate,3328161,0,60,3.16
+Khurja,SC,Uttar Pradesh ,BJP,41.20%,M,BJP,5,ASHOK KUMAR PRADHAN,0,Others,11589733,0,51,3.85
+Kishanganj,GEN,Bihar ,Rashtriya Janata Dal,63.60%,M,BJP,-6.57,TASLIMUDDIN,9,Literate,5525834,1012986,62,-16.27
+Kodarma,GEN,Jharkhand,BJP,62.30%,M,INC,8.97,BABULAL MARANDI,0,Graduate,5.00E+05,460000,45,3.16
+Koderma,GEN,Jharkhand,IND,56.20%,M,INC,8.97,Babu Lal Marandi,,Others,,,,3.16
+Kokrajhar,ST,Assam,Independent,79.50%,M,Independent,9.51,SANSUMA KHUNGGUR BWISWMUTHIARY,0,Graduate,1694686,0,42,1.51
+Kolaba,GEN,Maharashtra,INC,63.30%,M,Peasants And Workers Party Of India,10.7,A. R. ANTULAY,0,Graduate Professional,28468000,0,75,10.43
+Kolar,SC,Karnataka,INC,71.90%,M,INC,3.22,K.H. MUNIYAPPA,0,Graduate,6187039,397195,57,-12.81
+Kolhapur,GEN,Maharashtra,Nationalist Congress Party,69.80%,M,Nationalist Congress Party,10.7,MANDLIK SADASHIVRAO DADOBA,2,Graduate,8842586,986985,69,10.43
+Kopargaon,GEN,Maharashtra,INC,61.90%,M,Shiv Sena,10.7,E. V. ALIAS BALASAHEB VIKHE PATIL,0,10th Pass,36937860,764653,72,10.43
+Koppal,GEN,Karnataka,INC,63.20%,M,INC,3.22,K. VIRUPAXAPPA,0,10th Pass,5230246,1046888,62,-12.81
+Koraput,ST,Orissa,INC,64.50%,M,INC,21.93,GIRIDHAR GAMANG,0,Graduate,459812,0,61,22.81
+Kota,GEN,Rajasthan,BJP,43.60%,M,BJP,2.12,RAGHUVEER SINGH KOSHAL,0,Graduate Professional,5734998,664908,71,81.37
+Kottayam,GEN,Kerala,Communist Party Of India (MARXIST),73.00%,M,Communist Party Of India (MARXIST),5.57,K. SURESH KURUP,0,Graduate Professional,1818560,993202,48,-1.39
+Krishnagar,GEN,West Bengal,Communist Party Of India (MARXIST),82.70%,F,BJP,2.66,Jyotirmoyee Sikdar,0,12th Pass,7545592,1036080,34,3.56
+Krishnagiri,GEN,Tamil Nadu,Dravida Munetra Kazhagam,58.90%,M,Dravida Munetra Kazhagam,8.84,SUGAVANAM. E. G,1,Others,5121291,1991138,46,-2.42
+Kurnool,GEN,Andhra Pradesh,INC,62.40%,M,Telugu Desam,6.29,KOTLA JAYASURYA PRAKASHA REDDY,0,Graduate,15941801,681000,52,15.14
+Kurukshetra,GEN,Haryana,INC,73.20%,M,Indian National Lok Dal,9.42,NAVEEN JINDAL,0,Post Graduate,121295000,0,34,7.73
+Kutch,GEN,Gujarat,BJP,45.60%,M,BJP,12.5,GADHAVI PUSHPADAN SHAMBHUDAN,0,Graduate Professional,9730221,719633,63,39.89
+Ladakh,GEN,Jammu & Kashmir,Independent,72.70%,M,Jammu & Kashmir National Conference,4.29,THUPSTAN CHHEWANG,0,Graduate Professional,6139045,230415,56,8.88
+Lakhimpur,GEN,Assam,Asom Gana Parisad,71.00%,M,INC,9.51,DR. ARUN KUMAR SARMAH,0,Others,1467028,0,47,1.51
+Lakshadweep,ST,Lakshadweep,Janata Dal (United),81.50%,M,INC,0,DR. P. POOKUNHIKOYA,0,Graduate Professional,3945099,103145,55,0
+Lalganj,SC,Uttar Pradesh ,Samajwadi Party,49.00%,M,Bahujan Samaj Party,5,DAROGA PRASAD SAROJ,1,Graduate,614485,130918,54,3.85
+Latur,GEN,Maharashtra,BJP,63.50%,F,INC,10.7,PATIL RUPATAI DILIPRAO NILANGEKAR,0,10th Pass,1960659,5585583,47,10.43
+Lohardaga,ST,Jharkhand,INC,51.50%,M,BJP,8.97,RAMESHWAR ORAON,0,Doctorate,9238423,364452,,3.16
+Lucknow,GEN,Uttar Pradesh ,BJP,35.30%,M,BJP,5,ATAL BIHARI VAJPAYEE,0,Post Graduate,5899232,0,76,3.85
+Ludhiana,GEN,Punjab,Shiromani Akali Dal,55.80%,M,INC,4.08,SHARANJIT SINGH DHILLON,1,Graduate Professional,9842137,1176489,51,5.76
+Machhlishahr,GEN,Uttar Pradesh ,Bahujan Samaj Party,45.90%,M,Samajwadi Party,5,UMAKANT YADAV,8,Post Graduate,28462566,0,43,3.85
+Machilipatnam,GEN,Andhra Pradesh,INC,75.70%,M,Telugu Desam,6.29,BADIGA RAMAKRISHNA,0,12th Pass,138545000,11559000,61,15.14
+Madhepura,GEN,Bihar ,Rashtriya Janata Dal,58.60%,M,Janata Dal (United),-6.57,LALU PRASAD,7,Graduate Professional,8768340,22041400,55,-16.27
+Madhepura,GEN,Bihar ,RJD,NA,M,Janata Dal (United),-6.57,Rajesh Ranjan Alias Pappu Yadav,,Others,,,,-16.27
+Madhubani,GEN,Bihar ,INC,55.30%,M,BJP,-6.57,DR. SHAKEEL AHMAD,0,Graduate Professional,1859000,3.00E+05,47,-16.27
+Madras Central,GEN,Tamil Nadu,Dravida Munetra Kazhagam,49.10%,M,Dravida Munetra Kazhagam,8.84,DAYANIDHI MARAN,0,Graduate,14420628,0,37,-2.42
+Madras North,GEN,Tamil Nadu,Dravida Munetra Kazhagam,45.80%,M,Dravida Munetra Kazhagam,8.84,KUPPUSAMI. C,1,12th Pass,9537668,156696,77,-2.42
+Madras South,GEN,Tamil Nadu,Dravida Munetra Kazhagam,48.00%,M,Dravida Munetra Kazhagam,8.84,"BAALU, T. R.",0,Graduate,27444755,0,62,-2.42
+Madurai,GEN,Tamil Nadu,Communist Party Of India (MARXIST),54.90%,M,Communist Party Of India (MARXIST),8.84,,,Others,,,,-2.42
+Mahabubnagar,GEN,Andhra Pradesh,INC,63.40%,M,BJP,6.29,D. VITTAL RAO,0,Graduate,65075830,3.00E+06,53,15.14
+Maharajganj,GEN,Bihar ,Janata Dal (United),59.60%,M,Samajwadi Party,-6.57,PRABHUNATH SINGH,11,12th Pass,3296840,530175,49,-16.27
+Maharajganj,GEN,Uttar Pradesh ,BJP,56.90%,M,Janata Dal (United),5,PANKAJ,0,12th Pass,14174401,473788,40,3.85
+Mahasamund,GEN,Chhattisgarh,INC,65.90%,M,INC,18.79,AJIT JOGI,2,Graduate Professional,8835009,0,57,43.14
+Mahendragarh,GEN,Haryana,INC,59.40%,M,BJP,9.42,INDERJIT SINGH,0,Graduate Professional,55105874,1108417,54,7.73
+Mainpuri,GEN,Uttar Pradesh ,Samajwadi Party,59.40%,M,Samajwadi Party,5,MULAYAM SINGH YADAV,2,Post Graduate,11541224,41235,63,3.85
+Mainpuri,GEN,Uttar Pradesh ,SP,NA,M,Samajwadi Party,5,Dharmendra Yadav,,Others,,,,3.85
+Malda,GEN,West Bengal,INC,77.60%,M,INC,2.66,A. B. A. Ghani Khan Choudhury,1,Graduate,4115704,4187744,69,3.56
+Malda,GEN,West Bengal,INC,77.50%,M,INC,2.66,Abu Hasem Khan Choudhury (E),,Others,,,,3.56
+Malegaon,ST,Maharashtra,BJP,48.30%,M,Janata Dal (Secular),10.7,HARISCHANDRA DEVRAM CHAVAN,0,Graduate,3312291,9033,53,10.43
+Mandi,GEN,Himachal Pradesh,INC,62.50%,F,BJP,8.83,PRATIBHA SINGH,0,Graduate,230288018,1542808,47,11.5
+Mandla,ST,Madhya Pradesh ,BJP,53.70%,M,BJP,-2.8,FAGGAN SINGH KULASTE,0,Post Graduate,3091035,0,42,36.75
+Mandsaur,GEN,Madhya Pradesh ,BJP,56.50%,M,BJP,-2.8,DR LAXMINARAYAN PANDEYA,0,Post Graduate,2650506,726872,76,36.75
+Mandvi,ST,Gujarat,INC,56.10%,M,BJP,12.5,CHAUDHARY TUSHARBHAI AMARSINHBHAI,0,Graduate Professional,1817815,400372,36,39.89
+Mandya,GEN,Karnataka,INC,71.40%,M,INC,3.22,AMBAREESH M. H.,0,Others,7394819,321600,53,-12.81
+Mangaldoi,GEN,Assam,BJP,70.20%,M,INC,9.51,NARAYAN CHANDRA BORKATAKY,0,Graduate,5595818,301647,60,1.51
+Mangalore,GEN,Karnataka,BJP,71.70%,M,BJP,3.22,D. V. SADANANDA GOWDA,0,Graduate Professional,4639359,968423,51,-12.81
+Manjeri,GEN,Kerala,Communist Party Of India (MARXIST),71.70%,M,Muslim League Kerala State Committee,5.57,T. K. HAMZA,0,Graduate Professional,780480,434704,66,-1.39
+Mathura,GEN,Uttar Pradesh ,INC,47.10%,M,BJP,5,MANVENDRA SINGH,0,12th Pass,15387530,281228,,3.85
+Mathurapur,SC,West Bengal,Communist Party Of India (MARXIST),81.30%,M,Communist Party Of India (MARXIST),2.66,Basudeb Barman,0,Post Graduate,2772156,0,68,3.56
+Mavelikara,GEN,Kerala,Communist Party Of India (MARXIST),73.80%,F,INC,5.57,C. S. SUJATHA,4,Graduate Professional,669613,18000,38,-1.39
+Mayiladuturai,GEN,Tamil Nadu,INC,67.90%,M,INC,8.84,MANI SHANKAR AIYAR,0,Post Graduate,19391699,380411,63,-2.42
+Mayurbhanj,ST,Orissa,Jharkhand Mukti Morcha,70.30%,M,BJP,21.93,SUDAM MARNDI,4,12th Pass,1780596,0,38,22.81
+Medak,GEN,Andhra Pradesh,Telangana Rashtra Samithi,71.40%,M,BJP,6.29,A. NARENDRA,0,Graduate,2020000,5.00E+05,49,15.14
+Meerut,GEN,Uttar Pradesh ,Bahujan Samaj Party,52.40%,M,INC,5,MOHD. SHAHID,0,5th Pass,15220720,121146,34,3.85
+Mehsana,GEN,Gujarat,INC,56.30%,M,INC,12.5,JIVABHAI AMBALAL PATEL,0,10th Pass,34602412,0,70,39.89
+Midnapore,GEN,West Bengal,Communist Party Of India,78.50%,M,Communist Party Of India,2.66,Prabodh Panda,0,Graduate,1297328,0,58,3.56
+Miryalguda,GEN,Andhra Pradesh,INC,74.60%,M,INC,6.29,JAIPAL REDDY SUDINI,0,Post Graduate,12264007,1546865,62,15.14
+Mirzapur,GEN,Uttar Pradesh ,Bahujan Samaj Party,44.70%,M,Samajwadi Party,5,NARENDRA KUMAR KUSHWAHA,0,12th Pass,7099,0,35,3.85
+Mirzapur,GEN,Uttar Pradesh ,BSP,42.70%,M,Samajwadi Party,5,Ramesh Dubey,,Others,,,,3.85
+Misrikh,SC,Uttar Pradesh ,Bahujan Samaj Party,44.70%,M,Samajwadi Party,5,ASHOK KUMAR RAWAT,0,Post Graduate,1419108,326547,36,3.85
+Mizoram,ST,Mizoram,Mizo National Front,62.80%,M,Independent,-9.3,VANLALZAWMA,0,Post Graduate,2127713,0,48,-1.34
+Mohanlalganj,SC,Uttar Pradesh ,Samajwadi Party,44.70%,M,Samajwadi Party,5,JAI PRAKASH,0,Graduate,16583667,1883335,48,3.85
+Monghyr,GEN,Bihar ,Rashtriya Janata Dal,64.00%,M,Janata Dal (United),-6.57,JAY PRAKASH NARAYAN YADAV,1,Post Graduate,1880178,172602,54,-16.27
+Moradabad,GEN,Uttar Pradesh ,Samajwadi Party,48.40%,M,Akhil Bhartiya Lok Tantrik Congress,5,DR. SHAFIQURRAHMAN BARQ,0,Graduate,1349151,0,70,3.85
+Morena,SC,Madhya Pradesh ,BJP,33.90%,M,BJP,-2.8,ASHOK CHHAVIRAM ARGAL,2,12th Pass,3220504,432625,34,36.75
+Mormugao,GEN,Goa,INC,57.70%,M,BJP,7.59,ALEMAO CHURCHIL BRAZ,1,12th Pass,8675904,8172004,55,11.97
+Mormugao,GEN,Goa,INC,35.90%,M,BJP,7.59,Shri Francisco Sardinha,,Others,,,,11.97
+Motihari,GEN,Bihar ,Rashtriya Janata Dal,55.60%,M,BJP,-6.57,AKHILES PRASAD SINGH,0,Post Graduate,3669358,0,41,-16.27
+Mukundapuram,GEN,Kerala,Communist Party Of India (MARXIST),70.50%,M,INC,5.57,LONAPPAN NAMBADAN,0,Others,1930115,0,68,-1.39
+Mumbai North,GEN,Maharashtra,INC,47.10%,M,BJP,10.7,GOVINDA,1,Graduate,145298405,2.50E+07,41,10.43
+Mumbai North Central,GEN,Maharashtra,INC,46.10%,M,Shiv Sena,10.7,EKNATH M. GAIKWAD,0,10th Pass,2045861,0,64,10.43
+Mumbai North East,GEN,Maharashtra,INC,46.90%,M,BJP,10.7,KAMAT GURUDAS,0,Graduate Professional,33894725,0,49,10.43
+Mumbai North West,GEN,Maharashtra,INC,49.30%,M,INC,10.7,SUNIL DUTT,1,Graduate,204321510,0,74,10.43
+Mumbai North West,GEN,Maharashtra,INC,32.80%,F,INC,10.7,Priya Sunil Dutt,,Others,,,,10.43
+Mumbai South,GEN,Maharashtra,INC,44.20%,M,BJP,10.7,,,Others,,,,10.43
+Mumbai South Central,GEN,Maharashtra,Shiv Sena,49.40%,M,Shiv Sena,10.7,MOHAN RAWALE,4,10th Pass,5589646,145918,55,10.43
+Murshidabad,GEN,West Bengal,INC,83.80%,M,Communist Party Of India (MARXIST),2.66,,,Others,,,,3.56
+Muvattupuzha,GEN,Kerala,Indian Federal Democratic Party,75.60%,M,Kerala Congress(M),5.57,P. C. THOMAS (PULLOLIL),0,Graduate Professional,6392358,1232410,53,-1.39
+Muzaffarnagar,GEN,Uttar Pradesh ,Samajwadi Party,56.70%,M,INC,5,CH. MUNAWWAR HASAN,1,10th Pass,4217051,0,35,3.85
+Muzaffarpur,GEN,Bihar ,Janata Dal (United),63.40%,M,Janata Dal (United),-6.57,GEORGE FERNANDES,0,Others,33987410,0,72,-16.27
+Mysore,GEN,Karnataka,BJP,64.70%,M,INC,3.22,C. H. VIJAYASHANKAR,0,Graduate Professional,263999,21750,48,-12.81
+Nabadwip,SC,West Bengal,Communist Party Of India (MARXIST),84.30%,M,All India Trinamool Congress,2.66,Alakesh Das,0,Post Graduate,278876,18382,40,3.56
+Nagaland,GEN,Nagaland,Nagaland Peoples Front,91.40%,M,INC,9.82,W. WANGYUH,0,Post Graduate,2147000,0,40,5.51
+Nagapattinam,SC,Tamil Nadu,Dravida Munetra Kazhagam,71.50%,M,Dravida Munetra Kazhagam,8.84,"VIJAYAN, A. K. S.",0,12th Pass,3191000,1013614,43,-2.42
+Nagarkurnool,SC,Andhra Pradesh,Telugu Desam,68.10%,M,Telugu Desam,6.29,DR.MANDA JAGANNATH,0,Post Graduate,6545314,2339000,52,15.14
+Nagaur,GEN,Rajasthan,BJP,43.90%,M,INC,2.12,BHANWAR SINGH DANGAWAS,0,12th Pass,1303714,0,74,81.37
+Nagercoil,GEN,Tamil Nadu,Communist Party Of India (MARXIST),60.40%,M,BJP,8.84,BELLARMIN. A. V.,0,Post Graduate,3076650,0,49,-2.42
+Nagpur,GEN,Maharashtra,INC,48.60%,M,INC,10.7,VILAS MUTTEMWAR,0,Graduate,10020540,2898977,55,10.43
+Nainital,GEN,Uttarakhand,INC,48.90%,M,INC,17.77,K. C. SINGH BABA,0,12th Pass,23708052,2906552,58,4.87
+Nalanda,GEN,Bihar ,Janata Dal (United),68.20%,M,Janata Dal (United),-6.57,NITISH KUMAR,0,Graduate,4389206,672674,52,-16.27
+Nalgonda,GEN,Andhra Pradesh,Communist Party Of India,65.20%,M,Telugu Desam,6.29,Ramswaroop Prasad,,Others,,,,15.14
+Nanded,GEN,Maharashtra,BJP,55.30%,M,INC,10.7,,,Others,,,,10.43
+Nandurbar,ST,Maharashtra,INC,52.50%,M,INC,10.7,,,Others,,,,10.43
+Nandyal,GEN,Andhra Pradesh,INC,70.10%,M,Telugu Desam,6.29,S. P. Y. REDDY,0,Graduate Professional,64646900,13374000,54,15.14
+Narasapur,GEN,Andhra Pradesh,INC,76.90%,M,BJP,6.29,,,Others,,,,15.14
+Narasaraopet,GEN,Andhra Pradesh,INC,71.50%,M,INC,6.29,MEKAPATI RAJAMOHAN REDDY,0,Graduate Professional,63961169,0,59,15.14
+Nashik,GEN,Maharashtra,Nationalist Congress Party,43.10%,M,Shiv Sena,10.7,PINGALE DEVIDAS ANANDRAO,1,10th Pass,19757718,5607433,43,10.43
+Nawada,SC,Bihar ,Rashtriya Janata Dal,67.10%,M,BJP,-6.57,VIRCHANDRA PASWAN,0,Post Graduate,1797522,135728,41,-16.27
+Nellore,SC,Andhra Pradesh,INC,72.30%,F,Telugu Desam,6.29,PANABAKA LAKSHMI,0,Post Graduate,5395726,0,46,15.14
+New Delhi,GEN,Delhi ,INC,44.60%,M,BJP,-7.86,AJAY MAKAN,1,Post Graduate,30234158,650000,40,1.01
+Nilgiris,GEN,Tamil Nadu,INC,59.10%,M,BJP,8.84,PRABHU R.,0,Post Graduate,102440054,0,56,-2.42
+Nizamabad,GEN,Andhra Pradesh,INC,69.30%,M,Telugu Desam,6.29,MADHU GOUD YASKHI,0,Post Graduate,142718537,32560000,45,15.14
+Nowgong,GEN,Assam,BJP,68.40%,M,BJP,9.51,RAJEN GOHAIN,0,Graduate Professional,3679236,336600,51,1.51
+Nowrangpur,ST,Orissa,BJP,67.30%,M,BJP,21.93,PARSURAM MAJHI,0,Graduate,767000,25000,43,22.81
+Ongole,GEN,Andhra Pradesh,INC,74.80%,M,Telugu Desam,6.29,SREENIVASULU REDDY MAGUNTA,2,Graduate,141768943,0,49,15.14
+Osmanabad,SC,Maharashtra,Shiv Sena,59.40%,F,Shiv Sena,10.7,NARHIRE KALPANA RAMESH,5,10th Pass,3234992,510681,34,10.43
+Ottapalam,SC,Kerala,Communist Party Of India (MARXIST),73.80%,M,Communist Party Of India (MARXIST),5.57,S. AJAYA KUMAR,3,12th Pass,1083876,780000,39,-1.39
+Outer Delhi,GEN,Delhi ,INC,46.10%,M,BJP,-7.86,SAJJAN KUMAR,1,Literate,1306055,520477,58,1.01
+Outer Manipur,ST,Manipur,Independent,77.80%,M,Nationalist Congress Party,4.72,MANI CHARENAMEI,0,Graduate,205000,0,45,14.96
+Padrauna,GEN,Uttar Pradesh ,National Loktantrik Party,52.60%,M,BJP,5,BALESHWAR YADAV,0,Graduate,6907100,5.00E+05,49,3.85
+Palamau,SC,Jharkhand,Rashtriya Janata Dal,49.80%,M,BJP,8.97,MANOJ KUMAR,0,Graduate,1825000,125000,36,3.16
+Palamau,GEN,Jharkhand,RJD,49.80%,M,BJP,8.97,Dhuran Ram,,Others,,,,3.16
+Palani,GEN,Tamil Nadu,INC,63.70%,M,All India Anna Dravida Munnetra Kazhagam,8.84,,,Others,,,,-2.42
+Palghat,GEN,Kerala,Communist Party Of India (MARXIST),73.60%,M,Communist Party Of India (MARXIST),5.57,N. N. KRISHNADAS,4,Graduate,1503105,0,45,-1.39
+Pali,GEN,Rajasthan,BJP,45.30%,M,BJP,2.12,PUSP JAIN,0,Graduate Professional,1654429,222611,48,81.37
+Panaji,GEN,Goa,BJP,59.70%,M,BJP,7.59,SHRIPAD YESSO NAIK,0,Graduate,4537329,598785,50,11.97
+Pandharpur,SC,Maharashtra,Republican Party Of India (A),53.20%,M,Independent,10.7,ATHAWALE RAMDAS BANDU,0,Graduate,2656172,0,43,10.43
+Panskura,GEN,West Bengal,Communist Party Of India,82.10%,M,Communist Party Of India,2.66,Gurudas Dasgupta,0,Post Graduate,3668778,0,67,3.56
+Parbhani,GEN,Maharashtra,Shiv Sena,58.40%,M,Shiv Sena,10.7,TUKARAM GANPATRAO RENGE PATIL,13,Post Graduate,6060000,1950000,49,10.43
+Parvathipuram,ST,Andhra Pradesh,INC,73.70%,M,Telugu Desam,6.29,KISHORE CHANDRA SURYANARAYANA DEO VYRICHERLA,0,Post Graduate,220678000,0,57,15.14
+Patan,SC,Gujarat,BJP,47.50%,M,INC,12.5,KANODIA MAHESHKUMAR MITHABHAI,0,Literate,11842032,803206,67,39.89
+Patiala,GEN,Punjab,INC,61.30%,F,INC,4.08,PRENEET KAUR,0,Graduate,412867297,0,59,5.76
+Patna,GEN,Bihar ,Rashtriya Janata Dal,51.80%,M,BJP,-6.57,RAM KRIPAL YADAV,0,Graduate,1400031,204942,47,-16.27
+Peddapalli,SC,Andhra Pradesh,INC,67.70%,M,Telugu Desam,6.29,G. VENKAT SWAMY,0,10th Pass,19464700,0,76,15.14
+Perambalur,SC,Tamil Nadu,Dravida Munetra Kazhagam,70.60%,M,Dravida Munetra Kazhagam,8.84,"RAJA, A.",0,Graduate Professional,5759538,1331049,41,-2.42
+Periyakulam,GEN,Tamil Nadu,INC,66.00%,M,All India Anna Dravida Munnetra Kazhagam,8.84,AARON RASHID J. M.,0,10th Pass,152098686,2253320,53,-2.42
+Phillaur,SC,Punjab,Shiromani Akali Dal,61.20%,M,INC,4.08,CHARANJIT SINGH ATWAL,0,Graduate Professional,16469765,710013,67,5.76
+Phulbani,SC,Orissa,Biju Janata Dal,66.50%,M,Biju Janata Dal,21.93,SUGRIB SINGH,0,Graduate,869000,326000,40,22.81
+Phulpur,GEN,Uttar Pradesh ,Samajwadi Party,53.60%,M,Samajwadi Party,5,ATIQUE AHAMAD,36,8th Pass,33704071,0,41,3.85
+Pilibhit,GEN,Uttar Pradesh ,BJP,52.70%,F,Independent,5,MANEKA GANDHI,0,12th Pass,66763700,0,47,3.85
+Pollachi,SC,Tamil Nadu,Marumalarchi Dravida Munnetra Kazhagam,61.70%,M,Marumalarchi Dravida Munnetra Kazhagam,8.84,"KRISHNAN, DR. C",0,Graduate Professional,2686691,2.00E+05,68,-2.42
+Pondicherry,GEN,Pondicherry,Pattali Makkal Katchi,76.10%,M,INC,7.87,RAMADASS. M.,0,Doctorate,3217000,247304,54,4.28
+Ponnani,GEN,Kerala,Muslim League Kerala State Committee,62.20%,M,Muslim League Kerala State Committee,5.57,,,Others,,,,-1.39
+Poonch (Haveli),GEN,Jammu & Kashmir,INC,68.50%,M,,4.29,,,Others,,,,8.88
+Porbandar,GEN,Gujarat,BJP,49.30%,M,BJP,12.5,PATEL HARILAL MADHAVJIBHAI (HARIBHAI PATEL),0,8th Pass,7041540,1738534,51,39.89
+Pratapgarh,GEN,Uttar Pradesh ,Samajwadi Party,43.00%,M,INC,5,AKSHAY PRATAP SINGH (GOPAL JI),26,Literate,2169847,0,38,3.85
+Pudukkottai,GEN,Tamil Nadu,Dravida Munetra Kazhagam,66.20%,M,M.G.R.Anna D.M.Kazhagam,8.84,"REGUPATHY, S.",2,Graduate Professional,15938121,1326075,53,-2.42
+Pune,GEN,Maharashtra,INC,47.80%,M,BJP,10.7,KALMADI SURESH,1,Graduate,39947625,1700000,59,10.43
+Puri,GEN,Orissa,Biju Janata Dal,69.00%,M,Biju Janata Dal,21.93,BRAJA KISHORE TRIPATHY,0,Post Graduate,4197384,0,57,22.81
+Purnea,GEN,Bihar ,BJP,60.10%,M,Independent,-6.57,UDAY SINGH,0,12th Pass,30654143,731440,44,-16.27
+Purulia,GEN,West Bengal,All India Forward Bloc,70.00%,M,All India Forward Bloc,2.66,Bir Singh Mahato,2,Post Graduate,1474102,314287,58,3.56
+Quilon,GEN,Kerala,Communist Party Of India (MARXIST),68.10%,M,Communist Party Of India (MARXIST),5.57,P. RAJENDRAN,0,Post Graduate,2242499,227054,53,-1.39
+Rae Bareli,GEN,Uttar Pradesh ,INC,43.30%,F,INC,5,Sonia Gandhi,,Others,,,,3.85
+Rae Bareli,GEN,Uttar Pradesh ,INC,48.40%,F,INC,5,SONIA GANDHI,0,Others,8568694,0,58,3.85
+Raichur,GEN,Karnataka,INC,58.40%,M,INC,3.22,A.VENKATESH NAIK,0,12th Pass,5615514,447987,66,-12.81
+Raiganj,GEN,West Bengal,INC,79.60%,M,INC,2.66,Priya Ranjan Dasmunsi,0,Post Graduate,7504280,3.00E+06,59,3.56
+Raigarh,ST,Chhattisgarh,BJP,62.40%,M,BJP,18.79,VISHNUDEO SAI,0,12th Pass,899500,70546,39,43.14
+Raipur,GEN,Chhattisgarh,BJP,50.30%,M,BJP,18.79,RAMESH BAIS,0,12th Pass,9690604,0,,43.14
+Rajahmundry,GEN,Andhra Pradesh,INC,75.90%,M,BJP,6.29,ARUNA KUMAR VUNDAVALLI,2,Graduate Professional,23431318,881017,50,15.14
+Rajampet,GEN,Andhra Pradesh,INC,69.50%,M,Telugu Desam,6.29,ANNAYYAGARI SAI PRATHAP,0,12th Pass,9709190,1160909,59,15.14
+Rajapur,GEN,Maharashtra,Shiv Sena,57.50%,M,Shiv Sena,10.7,SURESH PRABHAKAR PRABHU,1,Doctorate,4520169,0,50,10.43
+Rajgarh,GEN,Madhya Pradesh ,BJP,46.90%,M,INC,-2.8,LAKSHMAN SINGH,0,Graduate,49014404,21893,49,36.75
+Rajkot,GEN,Gujarat,BJP,32.60%,M,BJP,12.5,DR. KATHIRIA VALLABHBHAI RAMJIBHAI,0,Graduate Professional,7971781,110729,49,39.89
+Rajmahal,ST,Jharkhand,Jharkhand Mukti Morcha,64.50%,M,INC,8.97,HEMLAL MURMU,1,Others,1680400,0,52,3.16
+Rajnandgaon,GEN,Chhattisgarh,BJP,59.20%,M,BJP,18.79,PRADEEP GANDHI,0,Graduate,1699397,486000,39,43.14
+Rajnandgaon,GEN,Chhattisgarh,INC,63.30%,M,BJP,18.79,Dev Wrat Singh,,Others,,,,43.14
+Ramanathapuram,GEN,Tamil Nadu,Dravida Munetra Kazhagam,58.60%,F,All India Anna Dravida Munnetra Kazhagam,8.84,BHAVANI RAJENTHIRAN. M. S. K.,0,Post Graduate,15150840,5.00E+05,49,-2.42
+Rampur,GEN,Uttar Pradesh ,Samajwadi Party,57.10%,F,INC,5,P. JAYA PRADA NAHATA,0,12th Pass,84275000,3.00E+05,42,3.85
+Ramtek,GEN,Maharashtra,Shiv Sena,56.30%,M,Shiv Sena,10.7,MOHITE SUBODH BABURAO,4,Graduate Professional,4472038,0,42,10.43
+Ramtek,GEN,Maharashtra,SHS,46.90%,M,Shiv Sena,10.7,Jadhav Prakash Bhagwantrao,,Others,,,,10.43
+Ranchi,GEN,Jharkhand,INC,50.50%,M,BJP,8.97,SUBODH KANT SAHAY,0,Graduate,12291253,829561,53,3.16
+Rasipuram,SC,Tamil Nadu,INC,61.20%,F,All India Anna Dravida Munnetra Kazhagam,8.84,RANI. K,1,Post Graduate,13775000,2077289,45,-2.42
+Ratnagiri,GEN,Maharashtra,Shiv Sena,61.30%,M,Shiv Sena,10.7,ANANT GEETE,0,12th Pass,5518754,1200000,52,10.43
+Rewa,GEN,Madhya Pradesh ,BJP,43.10%,M,INC,-2.8,CHANDRAMANI TRIPATHI,1,Graduate Professional,1062399,40000,56,36.75
+Roberts Ganj,SC,Uttar Pradesh,BSP,48.70%,M,,5,Bhai Lal,,Others,,,,3.85
+Robertsganj,SC,Uttar Pradesh ,Bahujan Samaj Party,43.60%,M,BJP,5,LALCHANDRA,0,Literate,88030,165515,55,3.85
+Rohtak,GEN,Haryana,INC,62.70%,M,Indian National Lok Dal,9.42,BHUPINDER SINGH,1,Graduate Professional,9486571,457151,54,7.73
+Rohtak,GEN,Haryana,INC,49.90%,M,Indian National Lok Dal,9.42,Deependra Singh,,Others,,,,7.73
+Ropar,SC,Punjab,Shiromani Akali Dal,58.70%,M,INC,4.08,SUKHDEV SINGH LIBRA,0,10th Pass,10332944,0,72,5.76
+Rosera,SC,Bihar ,Lok Jan Shakti Party,57.30%,M,Janata Dal (United),-6.57,RAM CHANDRA PASWAN,0,10th Pass,4204913,0,43,-16.27
+Sabarkantha,GEN,Gujarat,INC,51.40%,M,INC,12.5,MADHUSUDAN MISTRY,0,Post Graduate,1826173,125000,59,39.89
+Sagar,SC,Madhya Pradesh ,BJP,38.30%,M,BJP,-2.8,VIRENDRA KUMAR,0,Post Graduate,1429786,0,51,36.75
+Saharanpur,GEN,Uttar Pradesh ,Samajwadi Party,63.20%,M,Bahujan Samaj Party,5,RASHEED MASOOD,1,Post Graduate,26175490,3050977,53,3.85
+Saharsa,GEN,Bihar ,Lok Jan Shakti Party,57.30%,F,Janata Dal (United),-6.57,RANJEET RANJAN,0,12th Pass,2549000,0,31,-16.27
+Saidpur,SC,Uttar Pradesh ,Samajwadi Party,46.30%,M,Samajwadi Party,5,TUFANI SAROJ,0,Graduate,4558332,0,45,3.85
+Salem,GEN,Tamil Nadu,INC,59.20%,M,All India Anna Dravida Munnetra Kazhagam,8.84,THANGKABALU K. V.,0,Post Graduate,56185835,0,55,-2.42
+Salempur,GEN,Uttar Pradesh ,Samajwadi Party,45.10%,M,Bahujan Samaj Party,5,HARIKEVAL PRASAD,0,Others,3037000,0,66,3.85
+Salumber,ST,Rajasthan,BJP,49.20%,M,INC,2.12,MAHAVEER BHAGORA,1,Post Graduate,3026777,0,52,81.37
+Samastipur,GEN,Bihar ,Rashtriya Janata Dal,60.30%,M,Janata Dal (United),-6.57,ALOK KUMAR MEHTA,0,Graduate Professional,6794434,0,35,-16.27
+Sambalpur,GEN,Orissa,Biju Janata Dal,65.30%,M,Biju Janata Dal,21.93,PRASANNA ACHARYA,0,Graduate Professional,10184422,874591,54,22.81
+Sambhal,GEN,Uttar Pradesh ,Samajwadi Party,60.80%,M,Samajwadi Party,5,PRO. RAM GOPAL YADAV,0,Doctorate,7953884,475000,56,3.85
+Sangli,GEN,Maharashtra,INC,58.40%,M,INC,10.7,Patil Prakashbapu Vasantdada,0,Graduate,35635000,0,56,10.43
+Sangli,GEN,Maharashtra,INC,50.40%,M,INC,10.7,Patil Pratik Prakashbapu,,Others,,,,10.43
+Sangrur,GEN,Punjab,Shiromani Akali Dal,69.00%,M,Shiromani Akali Dal (SIMRANJIT SINGH MANN),4.08,SUKHDEV SINGH DHINDSA,0,Graduate,13984341,0,67,5.76
+Sanwer,SC,Madhya Pradesh,INC,62.40%,M,,-2.8,,,Others,,,,36.75
+Sarangarh,SC,Chhattisgarh,BJP,49.30%,M,BJP,18.79,GUHARAM AJGALLE,0,Graduate Professional,1768900,0,37,43.14
+Sasaram,SC,Bihar ,INC,54.00%,F,BJP,-6.57,MEIRA KUMAR,0,Post Graduate,28956730,3600000,57,-16.27
+Satara,GEN,Maharashtra,Nationalist Congress Party,58.60%,M,Nationalist Congress Party,10.7,LAXMANRAO PANDURANG JADHAV (PATIL),0,10th Pass,9925739,50403,66,10.43
+Satna,GEN,Madhya Pradesh ,BJP,46.00%,M,BJP,-2.8,GANESH SINGH,2,Post Graduate,2548143,236038,42,36.75
+Sawai Madhopur,ST,Rajasthan,INC,49.60%,M,BJP,2.12,NAMO NARAIN,0,Post Graduate,5234897,4.00E+05,60,81.37
+Secunderabad,GEN,Andhra Pradesh,INC,52.60%,M,BJP,6.29,M. ANJAN KUMAR YADAV,0,12th Pass,4250700,810500,39,15.14
+Seoni,GEN,Madhya Pradesh ,BJP,49.70%,F,BJP,-2.8,NEETA PATERIYA,0,Post Graduate,3239103,41965,41,36.75
+Serampore,GEN,West Bengal,Communist Party Of India (MARXIST),73.40%,M,All India Trinamool Congress,2.66,Santasri Chatterjee,0,Graduate,1698395,0,64,3.56
+Shahabad,GEN,Uttar Pradesh ,Bahujan Samaj Party,46.10%,M,Bahujan Samaj Party,5,ILIYAS AZMI,0,Graduate,19683626,0,63,3.85
+Shahdol,ST,Madhya Pradesh ,BJP,39.00%,M,BJP,-2.8,DALPAT SINGH PARASTE,0,Graduate,6811000,0,53,36.75
+Shahjahanpur,GEN,Uttar Pradesh ,INC,51.10%,M,INC,5,KUNWAR JITIN PRASAD,0,Post Graduate,17113691,652823,30,3.85
+Shajapur,SC,Madhya Pradesh ,BJP,54.20%,M,BJP,-2.8,THAWAR CHAND GEHLOT,0,Graduate,2016554,0,56,36.75
+Sheohar,GEN,Bihar ,Rashtriya Janata Dal,54.90%,M,Rashtriya Janata Dal,-6.57,SITARAM SINGH,0,Graduate,4624000,0,40,-16.27
+Shillong,GEN,Meghalaya,INC,46.80%,M,INC,18.02,PATY RIPPLE KYNDIAH,0,Graduate,4078978,0,75,1.81
+Shimoga,GEN,Karnataka,BJP,70.50%,M,INC,3.22,S. BANGARAPPA,2,Graduate,33302318,8298000,71,-12.81
+Shimoga,GEN,Karnataka,SP,58.20%,M,INC,3.22,S.Bangarappa,,Others,,,,-12.81
+Sholapur,GEN,Maharashtra,BJP,55.40%,M,INC,10.7,DESHMUKH SUBHASH SURESHCHANDRA,0,10th Pass,37495282,64522,46,10.43
+Siddipet,SC,Andhra Pradesh,INC,64.80%,M,Telugu Desam,6.29,SARVEY SATHYANARAYANA,0,Graduate Professional,1110000,480000,49,15.14
+Sidhi,GEN,Madhya Pradesh,INC,55.20%,M,INC,-2.8,,,Others,,,,36.75
+Sidhi,ST,Madhya Pradesh ,BJP,42.20%,M,BJP,-2.8,CHANDRAPRATAP SINGH,0,12th Pass,795619,126764,45,36.75
+Sikar,GEN,Rajasthan,BJP,52.70%,M,BJP,2.12,SUBHASH MEHARIA,0,Graduate,13267020,534287,46,81.37
+Sikkim,GEN,Sikkim,Sikkim Democratic Front,76.40%,M,Sikkim Democratic Front,4.41,NAKUL DAS RAI,0,Graduate,6890766,1494475,45,7.76
+Silchar,GEN,Assam,INC,69.10%,M,INC,9.51,SONTOSH MOHAN DEV,0,Graduate,12356601,170759,70,1.51
+Simla,SC,Himachal Pradesh,INC,51.60%,M,Himachal Vikash Congress,8.83,DHANI RAM SHANDIL,0,Doctorate,9272958,958,63,11.5
+Singhbhum,ST,Jharkhand,INC,56.60%,M,BJP,8.97,BAGUN SUMBRAI,0,10th Pass,4532035,2.00E+05,80,3.16
+Sirsa,SC,Haryana,INC,69.00%,M,Indian National Lok Dal,9.42,ATMA SINGH GILL,0,5th Pass,1302714,280000,66,7.73
+Sitamarhi,GEN,Bihar ,Rashtriya Janata Dal,54.60%,M,Janata Dal (United),-6.57,SITARAM YADAV,2,Graduate Professional,4805008,404410,56,-16.27
+Sitapur,GEN,Uttar Pradesh ,Bahujan Samaj Party,46.20%,M,Bahujan Samaj Party,5,RAJESH VERMA,0,Post Graduate,4850000,1004319,43,3.85
+Sivaganga,GEN,Tamil Nadu,INC,61.30%,M,INC,8.84,"CHIDAMBARAM, P.",0,Post Graduate,179861587,0,58,-2.42
+Sivakasi,GEN,Tamil Nadu,Marumalarchi Dravida Munnetra Kazhagam,63.00%,M,Marumalarchi Dravida Munnetra Kazhagam,8.84,"RAVICHANDRAN, A",0,Graduate,3058910,0,38,-2.42
+Siwan,GEN,Bihar ,Rashtriya Janata Dal,60.50%,M,Rashtriya Janata Dal,-6.57,MOHAMMAD SHAHABUDDIN,19,Doctorate,3447000,428930,38,-16.27
+Sonepat,GEN,Haryana,BJP,64.70%,M,BJP,9.42,KISHAN SINGH SANGWAN,0,Post Graduate,7777238,847138,54,7.73
+South Delhi,GEN,Delhi ,BJP,47.00%,M,BJP,-7.86,VIJAY KUMAR MALHOTRA,0,Doctorate,8988478,0,72,1.01
+Srikakulam,GEN,Andhra Pradesh,Telugu Desam,75.40%,M,Telugu Desam,6.29,,,Others,,,,15.14
+Srinagar,GEN,Jammu & Kashmir,Jammu & Kashmir National Conference,18.60%,M,Jammu & Kashmir National Conference,4.29,OMAR ABDULLAH,0,Graduate,19684236,54998,32,8.88
+Sriperumbudur,SC,Tamil Nadu,Dravida Munetra Kazhagam,59.20%,M,Dravida Munetra Kazhagam,8.84,KRISHNASWAMY. A,2,Graduate Professional,2214854,0,38,-2.42
+Sultanpur,GEN,Uttar Pradesh ,Bahujan Samaj Party,49.20%,M,Bahujan Samaj Party,5,MOHD. TAHIR,1,12th Pass,116697,0,28,3.85
+Sundargarh,ST,Orissa,BJP,60.60%,M,BJP,21.93,JUAL ORAM,3,10th Pass,5746675,8.00E+05,43,22.81
+Surat,GEN,Gujarat,BJP,37.70%,M,BJP,12.5,KASHIRAM RANA,0,Graduate Professional,7677857,0,65,39.89
+Surendranagar,GEN,Gujarat,BJP,41.10%,M,INC,12.5,,,Others,,,,39.89
+Surguja,ST,Chhattisgarh,BJP,48.80%,M,INC,18.79,NAND KUMAR SAI,1,Post Graduate,3124000,610000,65,43.14
+Tamluk,GEN,West Bengal,Communist Party Of India (MARXIST),86.90%,M,Communist Party Of India (MARXIST),2.66,Seth Lakshman Chandra,0,Post Graduate,887175,0,,3.56
+Tarn Taran,GEN,Punjab,Shiromani Akali Dal,61.10%,M,Shiromani Akali Dal,4.08,RATTAN SINGH,1,Graduate Professional,29516341,0,60,5.76
+Tehri Garhwal,GEN,Uttarakhand,BJP,43.40%,M,BJP,17.77,MANABENDRA SHAH,0,12th Pass,347563683,0,84,4.87
+Tehri Gharwal,GEN,Uttarakhand,INC,60.90%,M,BJP,17.77,Vijay Bahuguna,,Others,,,,4.87
+Tenali,GEN,Andhra Pradesh,INC,76.30%,M,Telugu Desam,6.29,BALASHOWRY VALLABHANENI,0,Graduate,103238914,350000,36,15.14
+Tenkasi,SC,Tamil Nadu,Communist Party Of India,65.40%,M,All India Anna Dravida Munnetra Kazhagam,8.84,"APPADURAI, M.",0,Graduate,1263017,0,52,-2.42
+Tezpur,GEN,Assam,INC,71.60%,M,INC,9.51,MONI KUMAR SUBBA,0,8th Pass,186443565,0,54,1.51
+Thane,GEN,Maharashtra,Shiv Sena,40.50%,M,Shiv Sena,10.7,PARANJAPE PRAKASH VISHVANATH,0,Graduate,5905573,1382266,56,10.43
+Thane,GEN,Maharashtra,SS,24.50%,M,Shiv Sena,10.7,Anand Prakash Paranjpe,,Others,,,,10.43
+Thanjavur,GEN,Tamil Nadu,Dravida Munetra Kazhagam,68.60%,M,Dravida Munetra Kazhagam,8.84,PALANIMANICKAM. S. S.,0,Graduate Professional,3516998,535689,53,-2.42
+Thiruvananthapuram,GEN,Kerala,CPI,68.10%,M,Dravida Munetra Kazhagam,5.57,,,Others,,,,-1.39
+Tindivanam,GEN,Tamil Nadu,Pattali Makkal Katchi,62.80%,M,Marumalarchi Dravida Munnetra Kazhagam,8.84,DHANARAJU. K,0,Doctorate,2658860,0,47,-2.42
+Tiruchendur,GEN,Tamil Nadu,Dravida Munetra Kazhagam,61.00%,F,Dravida Munetra Kazhagam,8.84,,,Others,,,,-2.42
+Tiruchengode,GEN,Tamil Nadu,Dravida Munetra Kazhagam,59.70%,F,Marumalarchi Dravida Munnetra Kazhagam,8.84,SUBBULAKSHMI JAGADEESAN,0,Graduate Professional,8734674,0,58,-2.42
+Tiruchirappalli,GEN,Tamil Nadu,Marumalarchi Dravida Munnetra Kazhagam,59.40%,M,BJP,8.84,GANESAN. L,2,Graduate Professional,1900000,0,68,-2.42
+Tirunelveli,GEN,Tamil Nadu,INC,58.10%,M,All India Anna Dravida Munnetra Kazhagam,8.84,"DHANUSKODI ATHITHAN, R.",1,Post Graduate,16322132,5573213,53,-2.42
+Tirupathi,SC,Andhra Pradesh,INC,69.80%,M,BJP,6.29,CHINTA MOHAN,0,Graduate Professional,3982900,1325256,49,15.14
+Tiruppattur,GEN,Tamil Nadu,Dravida Munetra Kazhagam,63.80%,M,Dravida Munetra Kazhagam,8.84,"VENUGOPAL, D.",0,8th Pass,7685000,994803,68,-2.42
+Tonk,SC,Rajasthan,BJP,46.40%,M,BJP,2.12,KAILASH MEGHWAL,0,Post Graduate,10950282,0,70,81.37
+Trichur,GEN,Kerala,Communist Party Of India,69.30%,M,INC,5.57,C. K. CHANDRAPPAN,0,Graduate,8812606,0,65,-1.39
+Tripura East,ST,Tripura,Communist Party Of India (MARXIST),66.20%,M,Communist Party Of India (MARXIST),-18.67,BAJU BAN RIYAN,0,Graduate,1188586,0,59,5.21
+Tripura West,GEN,Tripura,Communist Party Of India (MARXIST),67.20%,M,Communist Party Of India (MARXIST),-18.67,KHAGEN DAS,0,Post Graduate,1423083,0,64,5.21
+Trivandrum,GEN,Kerala,Communist Party Of India,68.40%,M,INC,5.57,,,Others,,,,-1.39
+Tumkur,GEN,Karnataka,BJP,70.60%,M,INC,3.22,S. MALLIKARJUNAIAH,0,Post Graduate,9090000,40000,74,-12.81
+Tura,GEN,Meghalaya,All India Trinamool Congress,61.80%,M,Nationalist Congress Party,18.02,PURANO AGITOK SANGMA,0,Post Graduate,35032125,0,56,1.81
+Tura,GEN,Meghalaya,NCP,68.30%,M,Nationalist Congress Party,18.02,Purno Agitok Sangma,,Others,,,,1.81
+Udaipur,GEN,Rajasthan,BJP,55.60%,F,INC,2.12,,,Others,,,,81.37
+Udhampur,GEN,Jammu & Kashmir,INC,45.10%,M,BJP,4.29,CH. LAL SINGH,0,Graduate,5400000,5.00E+05,44,8.88
+Udupi,GEN,Karnataka,BJP,68.40%,F,INC,3.22,MANORAMA MADHWARAJ,0,Graduate,13751985,2700000,,-12.81
+Ujjain,SC,Madhya Pradesh ,BJP,57.90%,M,BJP,-2.8,DR. SATYANARAYAN JATIYA,0,Doctorate,2794387,0,58,36.75
+Uluberia,GEN,West Bengal,Communist Party Of India (MARXIST),75.20%,M,Communist Party Of India (MARXIST),2.66,Hannan Mollah,0,Post Graduate,621879,0,58,3.56
+Unnao,GEN,Uttar Pradesh ,Bahujan Samaj Party,42.00%,M,Samajwadi Party,5,BRAJESH PATHAK,4,Graduate Professional,2776872,5222,28,3.85
+Vaishali,GEN,Bihar ,Rashtriya Janata Dal,62.50%,M,Rashtriya Janata Dal,-6.57,RAGHUBANSH PRASAD SINGH,0,Doctorate,4871420,481535,57,-16.27
+Vandavasi,GEN,Tamil Nadu,Marumalarchi Dravida Munnetra Kazhagam,62.20%,M,Pattali Makkal Katchi,8.84,,,Others,,,,-2.42
+Varanasi,GEN,Uttar Pradesh ,INC,42.60%,M,BJP,5,DR. RAJESH KUMAR MISHRA,0,Others,1241800,4.00E+05,44,3.85
+Vellore,GEN,Tamil Nadu,Dravida Munetra Kazhagam,61.10%,M,Pattali Makkal Katchi,8.84,"KADER MOHIDEEN, K. M",0,Post Graduate,2800000,450000,63,-2.42
+Vidisha,GEN,Madhya Pradesh ,BJP,50.00%,M,BJP,-2.8,SHIVRAJ SINGH,2,Post Graduate,5814600,287640,45,36.75
+Vijayawada,GEN,Andhra Pradesh,INC,64.40%,M,Telugu Desam,6.29,,,Others,,,,15.14
+Visakhapatnam,GEN,Andhra Pradesh,INC,63.70%,M,Telugu Desam,6.29,JANARDHANA REDDY NEDURUMALLI,0,Graduate Professional,10916531,11212,69,15.14
+Vishnupur,SC,West Bengal,Communist Party Of India (MARXIST),76.30%,F,Communist Party Of India (MARXIST),2.66,Susmita Bauri,0,Graduate Professional,33000,10000,,3.56
+Warangal,GEN,Andhra Pradesh,Telangana Rashtra Samithi,75.80%,M,Telugu Desam,6.29,,,Others,,,,15.14
+Warangal,GEN,Andhra Pradesh,TD,67.60%,M,Telugu Desam,6.29,,,Others,,,,15.14
+Wardha,GEN,Maharashtra,BJP,54.70%,M,INC,10.7,WAGMARE SURESH GANAPAT,0,Graduate,441000,447393,42,10.43
+Washim,GEN,Maharashtra,Shiv Sena,62.50%,F,Shiv Sena,10.7,GAWALI (PATIL) KU. BHAVANA PUNDLIKRAO,1,Graduate,18808750,748904,29,10.43
+Yavatmal,GEN,Maharashtra,BJP,58.50%,M,INC,10.7,RATHOD HARISING NASARU,0,Graduate,3801000,945123,50,10.43
