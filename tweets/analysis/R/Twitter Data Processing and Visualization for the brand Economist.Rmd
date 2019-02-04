@@ -1,0 +1,275 @@
+---
+title: "Text Mining of Twitter data for the brand Economist"
+output: html_document
+---
+
+Use Twitter data on Economist to demonstrate text mining and visualization techniques including text cleanup, word cloud, frequent terms, topic modelling and sentiment analysis 
+
+```{r setup, include=FALSE}
+#Setup the environment
+
+rm(list=ls())
+library(SnowballC)
+library(tm)
+library(ggplot2)
+library(RColorBrewer)
+library(wordcloud)
+library(topicmodels)
+library(stringi)
+library(devtools)
+#install_url("http://cran.r-project.org/src/contrib/Archive/Rstem/Rstem_0.4-1.tar.gz")
+#install_url("https://cran.r-project.org/src/contrib/Archive/sentiment/sentiment_0.2.tar.gz")
+library(Rstem)
+library(sentiment)
+library(qdap)
+library(dplyr)
+library(tidyr)
+#devtools::install_github("hrbrmstr/streamgraph")
+library(streamgraph)
+library(plotly)
+
+```
+
+#####Read Twitter Data
+
+```{r}
+# Set directory and read data
+#setwd("C:/Users/Sudha/Desktop/Training/TEXTCLASS_TRAINING/Glim Demo")
+tweets.df <- read.csv("economist_tweets.csv")
+
+```
+
+#####Cleaning the text data by removing links, tags and delimiters.   
+#####Build a Corpus, and specify the location to be the character Vectors  
+```{r}
+
+# Create document corpus with tweet text
+myCorpus<- Corpus(VectorSource(tweets.df$text)) 
+
+```
+
+#####convert to Lowercase  
+```{r}
+myCorpus <- tm_map(myCorpus, content_transformer(stri_trans_tolower))
+```
+
+#####Remove the links (URLs)  
+```{r}
+removeURL <- function(x) gsub("http[^[:space:]]*", "", x)  
+myCorpus <- tm_map(myCorpus, content_transformer(removeURL))
+```
+
+#####Remove anything except the english language and space  
+```{r}
+removeNumPunct <- function(x) gsub("[^[:alpha:][:space:]]*", "", x)   
+myCorpus <- tm_map(myCorpus, content_transformer(removeNumPunct))
+```
+
+#####Remove Stopwords  
+```{r}
+myStopWords<- c((stopwords('english')),c("rt", "use", "used", "via", "amp"))
+myCorpus<- tm_map(myCorpus,removeWords , myStopWords) 
+```
+
+#####Remove Single letter words  
+```{r}
+removeSingle <- function(x) gsub(" . ", " ", x)   
+myCorpus <- tm_map(myCorpus, content_transformer(removeSingle))
+```
+
+#####Remove Extra Whitespaces  and Numbers
+```{r}
+myCorpus<- tm_map(myCorpus, stripWhitespace) 
+myCorpus <- tm_map(myCorpus, removeNumbers)
+```
+
+#####Stem words in the corpus 
+
+```{r}
+myStopWords <-
+  c((stopwords('english')),
+    c(
+      "the",
+      "theeconomist",
+      "rt",
+      "use",
+      "used",
+      "via",
+      "amp",
+      "put",
+      "well",
+      "can",
+      "now",
+      "still",
+      "mr",
+      "th",
+      "dont",
+      "versus",
+      "will",
+      "since",
+      "even",
+      "seems",
+      "took",
+      "thought",
+      "just",
+      "first",
+      "think",
+      "economist",
+      "economists",
+      "said",
+      "need",
+      "make",
+      "one",
+      "give",
+      "see",
+      "last",
+      "onthisday",
+      "shift",
+      "john",
+      "never",
+      "says",
+      "know",
+      "jkaonline",
+      "mine",
+      "wouldnt",
+      "together",
+      "reckless",
+      "end",
+      "great",
+      "say",
+      "rickards",
+      "ben"
+    )
+  )
+myCorpus <- tm_map(myCorpus, removeWords , myStopWords)
+```
+
+
+#####Term Document Matrix creation
+```{r }
+tdm<- TermDocumentMatrix(myCorpus, control= list(wordLengths= c(1, Inf)))
+tdm
+tdm <- removeSparseTerms(tdm, .99)
+tdm
+```
+
+#####Find the terms used most frequently
+```{r Term frequency}
+(freq.terms <- findFreqTerms(tdm, lowfreq = 50))
+term.freq <- rowSums(as.matrix(tdm))
+term.freq <- subset(term.freq, term.freq > 50)
+df <- data.frame(term = names(term.freq), freq= term.freq)
+```
+
+#####plotting the graph of frequent terms
+```{r Graph}
+ggplot(df[1:20,], aes(reorder(term, freq),freq)) + theme_bw() + geom_bar(stat = "identity")  + coord_flip() +labs(list(title="Term Frequency Chart", x="Terms", y="Term Counts")) 
+```
+
+#####calculate the frequency of words and sort it by frequency and setting up the Wordcloud
+
+```{r WordCloud, warning=FALSE}
+word.freq <-sort(rowSums(as.matrix(tdm)), decreasing= F)
+pal<- brewer.pal(8, "Dark2")
+wordcloud(words = names(word.freq), freq = word.freq, min.freq = 2, random.order = F, colors = pal, max.words = 100)
+
+```
+
+#####Identify and plot word correlations. For example - trumps
+```{r}
+# Identify and plot word correlations. For example - trumps
+WordCorr <- apply_as_df(myCorpus[1:500], word_cor, word = "trumps", r=.25)
+plot(WordCorr)
+```
+
+#####Identify and plot word correlations. For example - ai
+```{r}
+# Identify and plot word correlations. For example - ai
+WordCorr <- apply_as_df(myCorpus[1:500], word_cor, word = "ai", r=.25)
+plot(WordCorr)
+```
+
+
+##### Find association with a specific keyword in the tweets - trumps, ai
+```{r Find Association}
+findAssocs(tdm, "ai", 0.2)
+findAssocs(tdm, "trumps", 0.2)
+```
+
+#####Topic Modelling with 5 topics
+#####Topic 1 mainly covers articles on Jerusalem/Israels...
+#####capital, jerusalem, israels, recognition, months, nine, carson, agency, directionless, helm
+#####Topic 2 mainly covers articles onBitcoin/France...
+#####bitcoin, prices, france, food, country, supermarkets, force, unsold, needy, independent" 
+#####Topic 3 mainly covers articles on Trumps/AI...
+##### trumps, time, future, ai, tax, women, americas, talks, many, move
+#####Topic 4 mainly covers articles on Siberia/World/Africas....
+#####africas, leaders, ageing, quit, cocaine, siberia, year, people, piece, world" 
+#####Topic 5 mainly covers articles on Brexit/Britain/EU....
+#####good, eu, brexit, bad, deal, leave, us, poor, countries, britain
+
+```{r}
+set.seed(123)
+dtm <- as.DocumentTermMatrix(tdm)
+
+rowTotals <- apply(dtm , 1, sum)
+
+NullDocs <- dtm[rowTotals == 0,]
+dtm   <- dtm[rowTotals > 0,]
+
+if (length(NullDocs$dimnames$Docs) > 0) {
+  tweets.df <- tweets.df[-as.numeric(NullDocs$dimnames$Docs), ]
+}
+
+#Set parameters for Gibbs sampling
+burnin <- 4000
+iter <- 2000
+thin <- 500
+seed <-list(2003,5,63,100001,765)
+nstart <- 5
+best <- TRUE
+#Number of topics
+k <- 5
+#Run LDA using Gibbs sampling
+lda <-LDA(dtm,k, method='Gibbs', control=list(nstart=nstart, seed = seed, best=best, burnin = burnin, iter = iter, thin=thin))
+#lda <- LDA(dtm, k = 5) # find 5 topic
+term <- terms(lda, 10) # first 7 terms of every topic
+(term <- apply(term, MARGIN = 2, paste, collapse = ", "))
+
+```
+
+
+#####emotions classification
+```{r}
+# using sentiment package to classify emotions
+emotions <- classify_emotion(tweets.df$text, algorithm='bayes')
+
+# using sentiment package to classify polarities
+polarities = classify_polarity(tweets.df$text, algorithm='bayes')
+
+df = data.frame(text=tweets.df$text, emotion=emotions[,'BEST_FIT'],
+                polarity=polarities[,'BEST_FIT'], stringsAsFactors=FALSE)
+df[is.na(df)] <- "N.A."
+```
+
+#####Plot the emotions. There are a lot of unknown emotions
+
+```{r}
+# plot the emotions
+plot_ly(df, x=~emotion,type="histogram",
+        marker = list(color = c('grey', 'red',
+                                'orange', 'navy',
+                                'yellow'))) %>%
+  layout(yaxis = list(title='Count'), title="Sentiment Analysis: Emotions")
+```
+
+#####Plot the polarity. Mostly positive emotions
+
+```{r}
+# plot the polarity
+plot_ly(df, x=~polarity, type="histogram",
+        marker = list(color = c('magenta', 'gold',
+                                'lightblue'))) %>%
+  layout(yaxis = list(title='Count'), title="Sentiment Analysis: Polarity")
+```
+
