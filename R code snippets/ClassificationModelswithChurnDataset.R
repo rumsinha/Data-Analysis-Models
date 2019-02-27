@@ -8,6 +8,8 @@ churnTrain <- churnTrain[,!names(churnTrain) %in% c("state", "area_code", "accou
 
 set.seed(100)
 
+# training and test dataset
+
 ind <- sample(2, nrow(churnTrain),replace=TRUE,prob=c(0.7,0.3))
 
 trainset <- churnTrain[ind == 1, ]
